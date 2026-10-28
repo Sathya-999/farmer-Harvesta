@@ -1,0 +1,50 @@
+# ==============================================================================
+# Agricultural Intelligence Platform — Production Profile
+#
+# Activated with: SPRING_PROFILES_ACTIVE=prod
+#
+# ALL values come from environment variables injected by the hosting platform
+# (e.g. Cloud Run, Railway, Fly.io, etc.).
+#
+# Do NOT hard-code credentials here.
+# Do NOT enable schema generation here (ddl-auto must remain none).
+# ==============================================================================
+
+spring:
+  jpa:
+    # -------------------------------------------------------------------------
+    # ddl-auto = none
+    #
+    # Production: Hibernate does NOT read schema metadata, does NOT validate,
+    # does NOT create, alter, or drop anything. This is the safest setting for
+    # a frozen production database.
+    # -------------------------------------------------------------------------
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+
+  datasource:
+    hikari:
+      # Production pool sizing — adjust based on Supabase plan limits
+      maximum-pool-size: 5
+      minimum-idle: 2
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      connection-test-query: SELECT 1
+      pool-name: AgriPlatformHikariPool
+
+# Actuator: restrict to health only in production
+management:
+  endpoint:
+    health:
+      show-details: never
+
+logging:
+  level:
+    org.springframework.security: WARN
+    com.agriplatform: INFO
+    com.zaxxer.hikari: WARN

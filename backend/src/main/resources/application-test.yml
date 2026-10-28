@@ -1,0 +1,69 @@
+# ==============================================================================
+# Agricultural Intelligence Platform — Test Profile
+#
+# Used by: src/test/java (Spring Boot test slices and @SpringBootTest)
+#
+# Strategy:
+#   JPA/DataSource auto-configuration is EXCLUDED for tests that do NOT need
+#   a database (security slice tests, pure unit tests). This prevents test-
+#   startup failures when real Supabase credentials are not present in CI.
+#
+#   Database infrastructure tests (DataSourceConfigTest) use @SpringBootTest
+#   with conditional logic: if SUPABASE_DB_URL is set, they verify a live
+#   connection; if not, they verify that the configuration properties are
+#   correctly wired (without actually connecting).
+#
+# Security tests:
+#   Use @WithMockUser / SecurityMockMvcRequestPostProcessors.jwt().
+#   No real Supabase JWT or database connection is required.
+#
+# DO NOT put real Supabase credentials here.
+# ==============================================================================
+
+spring:
+  autoconfigure:
+    exclude:
+      # Exclude JPA/DataSource auto-configs for test slices that do not
+      # need a database (@WebMvcTest security tests, pure unit tests).
+      # Tests that specifically test database infrastructure override
+      # this by importing the relevant auto-configuration explicitly.
+      - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
+      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+      - org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration
+
+  # Provide deterministic placeholder values so Spring Boot's property binding
+  # does not fail on ${SUPABASE_DB_*} references in application.yml when
+  # auto-configuration IS loaded (e.g. in DataSourceConfigTest).
+  # These are NOT real credentials and will NOT reach Supabase.
+  datasource:
+    url: ${SUPABASE_DB_URL:jdbc:postgresql://localhost:5432/test-placeholder}
+    username: ${SUPABASE_DB_USERNAME:test-placeholder-user}
+    password: ${SUPABASE_DB_PASSWORD:test-placeholder-pass}
+
+  jpa:
+    hibernate:
+      # none — safe for tests: Hibernate does not interact with schema.
+      # Even if a datasource were present, no DDL is emitted.
+      ddl-auto: none
+    show-sql: false
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          # Test profile uses a fixed local JWKS.
+          # Real issuer/JWKS are NOT required for security unit tests.
+          # Tests use @WithMockUser / SecurityMockMvcRequestPostProcessors.jwt()
+          issuer-uri: http://localhost/test-issuer
+          jwk-set-uri: http://localhost/test-issuer/.well-known/jwks.json
+
+app:
+  security:
+    cors:
+      allowed-origins: http://localhost:3000
+
+logging:
+  level:
+    org.springframework.security: WARN
+    com.agriplatform: DEBUG
+    com.zaxxer.hikari: WARN

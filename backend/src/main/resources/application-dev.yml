@@ -1,0 +1,80 @@
+# ==============================================================================
+# Agricultural Intelligence Platform — Development Profile
+#
+# Activated with: SPRING_PROFILES_ACTIVE=dev
+#
+# Required environment variables for this profile (set in .env):
+#
+#   SUPABASE_JWT_ISSUER      - your Supabase project auth issuer URL
+#   SUPABASE_JWT_JWKS_URI    - your Supabase project JWKS endpoint
+#   CORS_ALLOWED_ORIGINS     - Flutter Web dev server origin(s)
+#
+#   SUPABASE_DB_URL          - PostgreSQL JDBC URL
+#                              Use the SESSION POOLER (port 5432), NOT Transaction Pooler (6543).
+#                              Reason: Hibernate/JPA requires server-side prepared statements.
+#                              Transaction Pooler (6543) does not support them.
+#                              Example (Supabase Session Pooler):
+#                              jdbc:postgresql://aws-0-ap-south-1.pooler.supabase.com:5432/postgres?sslmode=require
+#                              Source: https://supabase.com/docs/guides/database/connecting-to-postgres
+#   SUPABASE_DB_USERNAME     - PostgreSQL username (e.g. postgres.yourproject)
+#   SUPABASE_DB_PASSWORD     - Your Supabase database password
+#
+# Loading environment variables in development:
+#   Option A (recommended): IntelliJ IDEA → Run/Debug Configuration → "Env file: .env"
+#   Option B: VS Code with "DotEnv" extension and a launch.json env file reference
+#   Option C: PowerShell wrapper — Get-Content .env | ForEach-Object { ... } before mvn spring-boot:run
+#   Spring Boot does NOT natively read .env; always use one of the above methods.
+#
+# Do NOT commit real values.
+# ==============================================================================
+
+spring:
+  jpa:
+    # -------------------------------------------------------------------------
+    # ddl-auto = validate
+    #
+    # Hibernate reads the database metadata and verifies that every @Entity
+    # mapping matches the existing schema. It does NOT create, alter, or drop
+    # any tables, columns, sequences, or constraints.
+    #
+    # This is the intended development mode once real @Entity classes exist.
+    # Currently (Task 04), no business entities have been created yet. With
+    # no entities to validate, Hibernate validates an empty model — which
+    # succeeds without DDL. Full schema validation will run once entity
+    # mappings are introduced in later tasks.
+    # -------------------------------------------------------------------------
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  datasource:
+    hikari:
+      connection-timeout: 30000
+      maximum-pool-size: 5
+      minimum-idle: 2
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      keepalive-time: 60000
+      connection-test-query: SELECT 1
+
+app:
+  security:
+    cors:
+      allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:3000}
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    com.agriplatform: DEBUG
+    # Show HikariCP pool lifecycle events in development
+    com.zaxxer.hikari: DEBUG
+    com.zaxxer.hikari.HikariConfig: DEBUG
+    # Show Hibernate SQL parameter binding
+    # INFO: hides actual bind values (farmer data, phone numbers, UUIDs).
+    # Set to TRACE only when debugging a specific query in a safe local environment
+    # that does NOT connect to the real production database.
+    org.hibernate.SQL: DEBUG
+    org.hibernate.orm.jdbc.bind: INFO

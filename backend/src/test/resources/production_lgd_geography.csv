@@ -1,0 +1,2316 @@
+state_code,state_name,district_code,district_name,mandal_code,mandal_name,village_code,village_name,is_active
+1,Jammu And Kashmir,,,,,,,true
+2,Himachal Pradesh,,,,,,,true
+3,Punjab,,,,,,,true
+4,Chandigarh,,,,,,,true
+5,Uttarakhand,,,,,,,true
+6,Haryana,,,,,,,true
+7,Delhi,,,,,,,true
+8,Rajasthan,,,,,,,true
+9,Uttar Pradesh,,,,,,,true
+10,Bihar,,,,,,,true
+11,Sikkim,,,,,,,true
+12,Arunachal Pradesh,,,,,,,true
+13,Nagaland,,,,,,,true
+14,Manipur,,,,,,,true
+15,Mizoram,,,,,,,true
+16,Tripura,,,,,,,true
+17,Meghalaya,,,,,,,true
+18,Assam,,,,,,,true
+19,West Bengal,,,,,,,true
+20,Jharkhand,,,,,,,true
+21,Odisha,,,,,,,true
+22,Chhattisgarh,,,,,,,true
+23,Madhya Pradesh,,,,,,,true
+24,Gujarat,,,,,,,true
+27,Maharashtra,,,,,,,true
+28,Andhra Pradesh,,,,,,,true
+29,Karnataka,,,,,,,true
+30,Goa,,,,,,,true
+31,Lakshadweep,,,,,,,true
+32,Kerala,,,,,,,true
+33,Tamil Nadu,,,,,,,true
+34,Puducherry,,,,,,,true
+35,Andaman And Nicobar Islands,,,,,,,true
+36,Telangana,,,,,,,true
+37,Ladakh,,,,,,,true
+38,The Dadra And Nagar Haveli And Daman And Diu,,,,,,,true
+35,Andaman And Nicobar Islands,603,Nicobars,,,,,true
+35,Andaman And Nicobar Islands,632,North And Middle Andaman,,,,,true
+35,Andaman And Nicobar Islands,602,South Andamans,,,,,true
+28,Andhra Pradesh,745,Alluri Sitharama Raju,,,,,true
+28,Andhra Pradesh,744,Anakapalli,,,,,true
+28,Andhra Pradesh,502,Ananthapuramu,,,,,true
+28,Andhra Pradesh,753,Annamayya,,,,,true
+28,Andhra Pradesh,750,Bapatla,,,,,true
+28,Andhra Pradesh,503,Chittoor,,,,,true
+28,Andhra Pradesh,747,Dr. B.R. Ambedkar Konaseema,,,,,true
+28,Andhra Pradesh,505,East Godavari,,,,,true
+28,Andhra Pradesh,748,Eluru,,,,,true
+28,Andhra Pradesh,506,Guntur,,,,,true
+28,Andhra Pradesh,746,Kakinada,,,,,true
+28,Andhra Pradesh,510,Krishna,,,,,true
+28,Andhra Pradesh,511,Kurnool,,,,,true
+28,Andhra Pradesh,790,Markapuram,,,,,true
+28,Andhra Pradesh,755,Nandyal,,,,,true
+28,Andhra Pradesh,749,Ntr,,,,,true
+28,Andhra Pradesh,751,Palnadu,,,,,true
+28,Andhra Pradesh,743,Parvathipuram Manyam,,,,,true
+28,Andhra Pradesh,791,Polavaram,,,,,true
+28,Andhra Pradesh,517,Prakasam,,,,,true
+28,Andhra Pradesh,519,Srikakulam,,,,,true
+28,Andhra Pradesh,515,Sri Potti Sriramulu Nellore,,,,,true
+28,Andhra Pradesh,754,Sri Sathya Sai,,,,,true
+28,Andhra Pradesh,752,Tirupati,,,,,true
+28,Andhra Pradesh,520,Visakhapatnam,,,,,true
+28,Andhra Pradesh,521,Vizianagaram,,,,,true
+28,Andhra Pradesh,523,West Godavari,,,,,true
+28,Andhra Pradesh,504,Y.S.R. Kadapa,,,,,true
+12,Arunachal Pradesh,628,Anjaw,,,,,true
+12,Arunachal Pradesh,787,Bichom,,,,,true
+12,Arunachal Pradesh,229,Changlang,,,,,true
+12,Arunachal Pradesh,230,Dibang Valley,,,,,true
+12,Arunachal Pradesh,231,East Kameng,,,,,true
+12,Arunachal Pradesh,232,East Siang,,,,,true
+12,Arunachal Pradesh,718,Kamle,,,,,true
+12,Arunachal Pradesh,786,Keyi Panyor,,,,,true
+12,Arunachal Pradesh,677,Kra Daadi,,,,,true
+12,Arunachal Pradesh,233,Kurung Kumey,,,,,true
+12,Arunachal Pradesh,724,Leparada,,,,,true
+12,Arunachal Pradesh,234,Lohit,,,,,true
+12,Arunachal Pradesh,666,Longding,,,,,true
+12,Arunachal Pradesh,235,Lower Dibang Valley,,,,,true
+12,Arunachal Pradesh,719,Lower Siang,,,,,true
+12,Arunachal Pradesh,236,Lower Subansiri,,,,,true
+12,Arunachal Pradesh,678,Namsai,,,,,true
+12,Arunachal Pradesh,723,Pakke Kessang,,,,,true
+12,Arunachal Pradesh,237,Papum Pare,,,,,true
+12,Arunachal Pradesh,725,Shi Yomi,,,,,true
+12,Arunachal Pradesh,679,Siang,,,,,true
+12,Arunachal Pradesh,238,Tawang,,,,,true
+12,Arunachal Pradesh,239,Tirap,,,,,true
+12,Arunachal Pradesh,240,Upper Siang,,,,,true
+12,Arunachal Pradesh,241,Upper Subansiri,,,,,true
+12,Arunachal Pradesh,242,West Kameng,,,,,true
+12,Arunachal Pradesh,243,West Siang,,,,,true
+18,Assam,739,Bajali,,,,,true
+18,Assam,616,Baksa,,,,,true
+18,Assam,280,Barpeta,,,,,true
+18,Assam,705,Biswanath,,,,,true
+18,Assam,281,Bongaigaon,,,,,true
+18,Assam,282,Cachar,,,,,true
+18,Assam,708,Charaideo,,,,,true
+18,Assam,612,Chirang,,,,,true
+18,Assam,283,Darrang,,,,,true
+18,Assam,284,Dhemaji,,,,,true
+18,Assam,285,Dhubri,,,,,true
+18,Assam,286,Dibrugarh,,,,,true
+18,Assam,299,Dima Hasao,,,,,true
+18,Assam,287,Goalpara,,,,,true
+18,Assam,288,Golaghat,,,,,true
+18,Assam,289,Hailakandi,,,,,true
+18,Assam,709,Hojai,,,,,true
+18,Assam,290,Jorhat,,,,,true
+18,Assam,291,Kamrup,,,,,true
+18,Assam,618,Kamrup Metro,,,,,true
+18,Assam,292,Karbi Anglong,,,,,true
+18,Assam,294,Kokrajhar,,,,,true
+18,Assam,295,Lakhimpur,,,,,true
+18,Assam,706,Majuli,,,,,true
+18,Assam,296,Marigaon,,,,,true
+18,Assam,297,Nagaon,,,,,true
+18,Assam,298,Nalbari,,,,,true
+18,Assam,300,Sivasagar,,,,,true
+18,Assam,301,Sonitpur,,,,,true
+18,Assam,707,South Salmara Mancachar,,,,,true
+18,Assam,293,Sribhumi,,,,,true
+18,Assam,756,Tamulpur,,,,,true
+18,Assam,302,Tinsukia,,,,,true
+18,Assam,617,Udalguri,,,,,true
+18,Assam,710,West Karbi Anglong,,,,,true
+10,Bihar,188,Araria,,,,,true
+10,Bihar,611,Arwal,,,,,true
+10,Bihar,189,Aurangabad,,,,,true
+10,Bihar,190,Banka,,,,,true
+10,Bihar,191,Begusarai,,,,,true
+10,Bihar,192,Bhagalpur,,,,,true
+10,Bihar,193,Bhojpur,,,,,true
+10,Bihar,194,Buxar,,,,,true
+10,Bihar,195,Darbhanga,,,,,true
+10,Bihar,196,Gaya,,,,,true
+10,Bihar,197,Gopalganj,,,,,true
+10,Bihar,198,Jamui,,,,,true
+10,Bihar,199,Jehanabad,,,,,true
+10,Bihar,200,Kaimur (Bhabua),,,,,true
+10,Bihar,201,Katihar,,,,,true
+10,Bihar,202,Khagaria,,,,,true
+10,Bihar,203,Kishanganj,,,,,true
+10,Bihar,204,Lakhisarai,,,,,true
+10,Bihar,205,Madhepura,,,,,true
+10,Bihar,206,Madhubani,,,,,true
+10,Bihar,207,Munger,,,,,true
+10,Bihar,208,Muzaffarpur,,,,,true
+10,Bihar,209,Nalanda,,,,,true
+10,Bihar,210,Nawada,,,,,true
+10,Bihar,211,Pashchim Champaran,,,,,true
+10,Bihar,212,Patna,,,,,true
+10,Bihar,213,Purbi Champaran,,,,,true
+10,Bihar,214,Purnia,,,,,true
+10,Bihar,215,Rohtas,,,,,true
+10,Bihar,216,Saharsa,,,,,true
+10,Bihar,217,Samastipur,,,,,true
+10,Bihar,218,Saran,,,,,true
+10,Bihar,219,Sheikhpura,,,,,true
+10,Bihar,220,Sheohar,,,,,true
+10,Bihar,221,Sitamarhi,,,,,true
+10,Bihar,222,Siwan,,,,,true
+10,Bihar,223,Supaul,,,,,true
+10,Bihar,224,Vaishali,,,,,true
+4,Chandigarh,44,Chandigarh,,,,,true
+22,Chhattisgarh,646,Balod,,,,,true
+22,Chhattisgarh,644,Balodabazar-Bhatapara,,,,,true
+22,Chhattisgarh,649,Balrampur-Ramanujganj,,,,,true
+22,Chhattisgarh,374,Bastar,,,,,true
+22,Chhattisgarh,650,Bemetara,,,,,true
+22,Chhattisgarh,636,Bijapur,,,,,true
+22,Chhattisgarh,375,Bilaspur,,,,,true
+22,Chhattisgarh,376,Dakshin Bastar Dantewada,,,,,true
+22,Chhattisgarh,377,Dhamtari,,,,,true
+22,Chhattisgarh,378,Durg,,,,,true
+22,Chhattisgarh,645,Gariyaband,,,,,true
+22,Chhattisgarh,734,Gaurela-Pendra-Marwahi,,,,,true
+22,Chhattisgarh,379,Janjgir-Champa,,,,,true
+22,Chhattisgarh,380,Jashpur,,,,,true
+22,Chhattisgarh,382,Kabeerdham,,,,,true
+22,Chhattisgarh,759,Khairagarh-Chhuikhadan-Gandai,,,,,true
+22,Chhattisgarh,643,Kondagaon,,,,,true
+22,Chhattisgarh,383,Korba,,,,,true
+22,Chhattisgarh,384,Korea,,,,,true
+22,Chhattisgarh,385,Mahasamund,,,,,true
+22,Chhattisgarh,760,Manendragarh-Chirmiri-Bharatpur(M C B),,,,,true
+22,Chhattisgarh,761,Mohla-Manpur-Ambagarh Chouki,,,,,true
+22,Chhattisgarh,647,Mungeli,,,,,true
+22,Chhattisgarh,637,Narayanpur,,,,,true
+22,Chhattisgarh,386,Raigarh,,,,,true
+22,Chhattisgarh,387,Raipur,,,,,true
+22,Chhattisgarh,388,Rajnandgaon,,,,,true
+22,Chhattisgarh,762,Sakti,,,,,true
+22,Chhattisgarh,763,Sarangarh-Bilaigarh,,,,,true
+22,Chhattisgarh,642,Sukma,,,,,true
+22,Chhattisgarh,648,Surajpur,,,,,true
+22,Chhattisgarh,389,Surguja,,,,,true
+22,Chhattisgarh,381,Uttar Bastar Kanker,,,,,true
+7,Delhi,77,Central,,,,,true
+7,Delhi,796,Central North,,,,,true
+7,Delhi,78,East,,,,,true
+7,Delhi,79,New Delhi,,,,,true
+7,Delhi,80,North,,,,,true
+7,Delhi,81,North East,,,,,true
+7,Delhi,82,North West,,,,,true
+7,Delhi,795,Old Delhi,,,,,true
+7,Delhi,794,Outer North,,,,,true
+7,Delhi,83,South,,,,,true
+7,Delhi,670,South East,,,,,true
+7,Delhi,84,South West,,,,,true
+7,Delhi,85,West,,,,,true
+30,Goa,793,Kushavati,,,,,true
+30,Goa,551,North Goa,,,,,true
+30,Goa,552,South Goa,,,,,true
+24,Gujarat,438,Ahmedabad,,,,,true
+24,Gujarat,439,Amreli,,,,,true
+24,Gujarat,440,Anand,,,,,true
+24,Gujarat,672,Arvalli,,,,,true
+24,Gujarat,441,Banas Kantha,,,,,true
+24,Gujarat,442,Bharuch,,,,,true
+24,Gujarat,443,Bhavnagar,,,,,true
+24,Gujarat,676,Botad,,,,,true
+24,Gujarat,668,Chhotaudepur,,,,,true
+24,Gujarat,445,Dahod,,,,,true
+24,Gujarat,444,Dangs,,,,,true
+24,Gujarat,674,Devbhumi Dwarka,,,,,true
+24,Gujarat,446,Gandhinagar,,,,,true
+24,Gujarat,675,Gir Somnath,,,,,true
+24,Gujarat,447,Jamnagar,,,,,true
+24,Gujarat,448,Junagadh,,,,,true
+24,Gujarat,449,Kachchh,,,,,true
+24,Gujarat,450,Kheda,,,,,true
+24,Gujarat,451,Mahesana,,,,,true
+24,Gujarat,669,Mahisagar,,,,,true
+24,Gujarat,673,Morbi,,,,,true
+24,Gujarat,452,Narmada,,,,,true
+24,Gujarat,453,Navsari,,,,,true
+24,Gujarat,454,Panch Mahals,,,,,true
+24,Gujarat,455,Patan,,,,,true
+24,Gujarat,456,Porbandar,,,,,true
+24,Gujarat,457,Rajkot,,,,,true
+24,Gujarat,458,Sabar Kantha,,,,,true
+24,Gujarat,459,Surat,,,,,true
+24,Gujarat,460,Surendranagar,,,,,true
+24,Gujarat,641,Tapi,,,,,true
+24,Gujarat,461,Vadodara,,,,,true
+24,Gujarat,462,Valsad,,,,,true
+24,Gujarat,789,Vav-Tharad,,,,,true
+6,Haryana,58,Ambala,,,,,true
+6,Haryana,59,Bhiwani,,,,,true
+6,Haryana,701,Charkhi Dadri,,,,,true
+6,Haryana,60,Faridabad,,,,,true
+6,Haryana,61,Fatehabad,,,,,true
+6,Haryana,62,Gurugram,,,,,true
+6,Haryana,792,Hansi,,,,,true
+6,Haryana,63,Hisar,,,,,true
+6,Haryana,64,Jhajjar,,,,,true
+6,Haryana,65,Jind,,,,,true
+6,Haryana,66,Kaithal,,,,,true
+6,Haryana,67,Karnal,,,,,true
+6,Haryana,68,Kurukshetra,,,,,true
+6,Haryana,69,Mahendragarh,,,,,true
+6,Haryana,604,Nuh,,,,,true
+6,Haryana,619,Palwal,,,,,true
+6,Haryana,70,Panchkula,,,,,true
+6,Haryana,71,Panipat,,,,,true
+6,Haryana,72,Rewari,,,,,true
+6,Haryana,73,Rohtak,,,,,true
+6,Haryana,74,Sirsa,,,,,true
+6,Haryana,75,Sonipat,,,,,true
+6,Haryana,76,Yamunanagar,,,,,true
+2,Himachal Pradesh,15,Bilaspur,,,,,true
+2,Himachal Pradesh,16,Chamba,,,,,true
+2,Himachal Pradesh,17,Hamirpur,,,,,true
+2,Himachal Pradesh,18,Kangra,,,,,true
+2,Himachal Pradesh,19,Kinnaur,,,,,true
+2,Himachal Pradesh,20,Kullu,,,,,true
+2,Himachal Pradesh,21,Lahaul And Spiti,,,,,true
+2,Himachal Pradesh,22,Mandi,,,,,true
+2,Himachal Pradesh,23,Shimla,,,,,true
+2,Himachal Pradesh,24,Sirmaur,,,,,true
+2,Himachal Pradesh,25,Solan,,,,,true
+2,Himachal Pradesh,26,Una,,,,,true
+1,Jammu And Kashmir,1,Anantnag,,,,,true
+1,Jammu And Kashmir,623,Bandipora,,,,,true
+1,Jammu And Kashmir,3,Baramulla,,,,,true
+1,Jammu And Kashmir,2,Budgam,,,,,true
+1,Jammu And Kashmir,4,Doda,,,,,true
+1,Jammu And Kashmir,626,Ganderbal,,,,,true
+1,Jammu And Kashmir,5,Jammu,,,,,true
+1,Jammu And Kashmir,7,Kathua,,,,,true
+1,Jammu And Kashmir,620,Kishtwar,,,,,true
+1,Jammu And Kashmir,622,Kulgam,,,,,true
+1,Jammu And Kashmir,8,Kupwara,,,,,true
+1,Jammu And Kashmir,10,Poonch,,,,,true
+1,Jammu And Kashmir,11,Pulwama,,,,,true
+1,Jammu And Kashmir,12,Rajouri,,,,,true
+1,Jammu And Kashmir,621,Ramban,,,,,true
+1,Jammu And Kashmir,627,Reasi,,,,,true
+1,Jammu And Kashmir,624,Samba,,,,,true
+1,Jammu And Kashmir,625,Shopian,,,,,true
+1,Jammu And Kashmir,13,Srinagar,,,,,true
+1,Jammu And Kashmir,14,Udhampur,,,,,true
+20,Jharkhand,322,Bokaro,,,,,true
+20,Jharkhand,323,Chatra,,,,,true
+20,Jharkhand,324,Deoghar,,,,,true
+20,Jharkhand,325,Dhanbad,,,,,true
+20,Jharkhand,326,Dumka,,,,,true
+20,Jharkhand,327,East Singhbum,,,,,true
+20,Jharkhand,328,Garhwa,,,,,true
+20,Jharkhand,329,Giridih,,,,,true
+20,Jharkhand,330,Godda,,,,,true
+20,Jharkhand,331,Gumla,,,,,true
+20,Jharkhand,332,Hazaribagh,,,,,true
+20,Jharkhand,333,Jamtara,,,,,true
+20,Jharkhand,606,Khunti,,,,,true
+20,Jharkhand,334,Koderma,,,,,true
+20,Jharkhand,335,Latehar,,,,,true
+20,Jharkhand,336,Lohardaga,,,,,true
+20,Jharkhand,337,Pakur,,,,,true
+20,Jharkhand,338,Palamu,,,,,true
+20,Jharkhand,607,Ramgarh,,,,,true
+20,Jharkhand,339,Ranchi,,,,,true
+20,Jharkhand,340,Sahebganj,,,,,true
+20,Jharkhand,341,Saraikela Kharsawan,,,,,true
+20,Jharkhand,342,Simdega,,,,,true
+20,Jharkhand,343,West Singhbhum,,,,,true
+29,Karnataka,524,Bagalkote,,,,,true
+29,Karnataka,528,Ballari,,,,,true
+29,Karnataka,527,Belagavi,,,,,true
+29,Karnataka,526,Bengaluru Rural,,,,,true
+29,Karnataka,631,Bengaluru South,,,,,true
+29,Karnataka,525,Bengaluru Urban,,,,,true
+29,Karnataka,529,Bidar,,,,,true
+29,Karnataka,531,Chamarajanagar,,,,,true
+29,Karnataka,630,Chikkaballapura,,,,,true
+29,Karnataka,532,Chikkamagaluru,,,,,true
+29,Karnataka,533,Chitradurga,,,,,true
+29,Karnataka,534,Dakshina Kannada,,,,,true
+29,Karnataka,535,Davanagere,,,,,true
+29,Karnataka,536,Dharwad,,,,,true
+29,Karnataka,537,Gadag,,,,,true
+29,Karnataka,539,Hassan,,,,,true
+29,Karnataka,540,Haveri,,,,,true
+29,Karnataka,538,Kalaburagi,,,,,true
+29,Karnataka,541,Kodagu,,,,,true
+29,Karnataka,542,Kolar,,,,,true
+29,Karnataka,543,Koppal,,,,,true
+29,Karnataka,544,Mandya,,,,,true
+29,Karnataka,545,Mysuru,,,,,true
+29,Karnataka,546,Raichur,,,,,true
+29,Karnataka,547,Shivamogga,,,,,true
+29,Karnataka,548,Tumakuru,,,,,true
+29,Karnataka,549,Udupi,,,,,true
+29,Karnataka,550,Uttara Kannada,,,,,true
+29,Karnataka,738,Vijayanagara,,,,,true
+29,Karnataka,530,Vijayapura,,,,,true
+29,Karnataka,635,Yadgir,,,,,true
+32,Kerala,554,Alappuzha,,,,,true
+32,Kerala,555,Ernakulam,,,,,true
+32,Kerala,556,Idukki,,,,,true
+32,Kerala,557,Kannur,,,,,true
+32,Kerala,558,Kasaragod,,,,,true
+32,Kerala,559,Kollam,,,,,true
+32,Kerala,560,Kottayam,,,,,true
+32,Kerala,561,Kozhikode,,,,,true
+32,Kerala,562,Malappuram,,,,,true
+32,Kerala,563,Palakkad,,,,,true
+32,Kerala,564,Pathanamthitta,,,,,true
+32,Kerala,565,Thiruvananthapuram,,,,,true
+32,Kerala,566,Thrissur,,,,,true
+32,Kerala,567,Wayanad,,,,,true
+37,Ladakh,6,Kargil,,,,,true
+37,Ladakh,9,Leh Ladakh,,,,,true
+31,Lakshadweep,553,Lakshadweep District,,,,,true
+23,Madhya Pradesh,667,Agar-Malwa,,,,,true
+23,Madhya Pradesh,639,Alirajpur,,,,,true
+23,Madhya Pradesh,390,Anuppur,,,,,true
+23,Madhya Pradesh,391,Ashoknagar,,,,,true
+23,Madhya Pradesh,392,Balaghat,,,,,true
+23,Madhya Pradesh,393,Barwani,,,,,true
+23,Madhya Pradesh,394,Betul,,,,,true
+23,Madhya Pradesh,395,Bhind,,,,,true
+23,Madhya Pradesh,396,Bhopal,,,,,true
+23,Madhya Pradesh,397,Burhanpur,,,,,true
+23,Madhya Pradesh,398,Chhatarpur,,,,,true
+23,Madhya Pradesh,399,Chhindwara,,,,,true
+23,Madhya Pradesh,400,Damoh,,,,,true
+23,Madhya Pradesh,401,Datia,,,,,true
+23,Madhya Pradesh,402,Dewas,,,,,true
+23,Madhya Pradesh,403,Dhar,,,,,true
+23,Madhya Pradesh,404,Dindori,,,,,true
+23,Madhya Pradesh,406,Guna,,,,,true
+23,Madhya Pradesh,407,Gwalior,,,,,true
+23,Madhya Pradesh,408,Harda,,,,,true
+23,Madhya Pradesh,410,Indore,,,,,true
+23,Madhya Pradesh,411,Jabalpur,,,,,true
+23,Madhya Pradesh,412,Jhabua,,,,,true
+23,Madhya Pradesh,413,Katni,,,,,true
+23,Madhya Pradesh,405,Khandwa (East Nimar),,,,,true
+23,Madhya Pradesh,414,Khargone (West Nimar),,,,,true
+23,Madhya Pradesh,784,Maihar,,,,,true
+23,Madhya Pradesh,415,Mandla,,,,,true
+23,Madhya Pradesh,416,Mandsaur,,,,,true
+23,Madhya Pradesh,766,MAUGANJ,,,,,true
+23,Madhya Pradesh,417,Morena,,,,,true
+23,Madhya Pradesh,409,Narmadapuram,,,,,true
+23,Madhya Pradesh,418,Narsimhapur,,,,,true
+23,Madhya Pradesh,419,Neemuch,,,,,true
+23,Madhya Pradesh,722,Niwari,,,,,true
+23,Madhya Pradesh,785,Pandhurna,,,,,true
+23,Madhya Pradesh,420,Panna,,,,,true
+23,Madhya Pradesh,421,Raisen,,,,,true
+23,Madhya Pradesh,422,Rajgarh,,,,,true
+23,Madhya Pradesh,423,Ratlam,,,,,true
+23,Madhya Pradesh,424,Rewa,,,,,true
+23,Madhya Pradesh,425,Sagar,,,,,true
+23,Madhya Pradesh,426,Satna,,,,,true
+23,Madhya Pradesh,427,Sehore,,,,,true
+23,Madhya Pradesh,428,Seoni,,,,,true
+23,Madhya Pradesh,429,Shahdol,,,,,true
+23,Madhya Pradesh,430,Shajapur,,,,,true
+23,Madhya Pradesh,431,Sheopur,,,,,true
+23,Madhya Pradesh,432,Shivpuri,,,,,true
+23,Madhya Pradesh,433,Sidhi,,,,,true
+23,Madhya Pradesh,638,Singrauli,,,,,true
+23,Madhya Pradesh,434,Tikamgarh,,,,,true
+23,Madhya Pradesh,435,Ujjain,,,,,true
+23,Madhya Pradesh,436,Umaria,,,,,true
+23,Madhya Pradesh,437,Vidisha,,,,,true
+27,Maharashtra,466,Ahilyanagar,,,,,true
+27,Maharashtra,467,Akola,,,,,true
+27,Maharashtra,468,Amravati,,,,,true
+27,Maharashtra,470,Beed,,,,,true
+27,Maharashtra,471,Bhandara,,,,,true
+27,Maharashtra,472,Buldhana,,,,,true
+27,Maharashtra,473,Chandrapur,,,,,true
+27,Maharashtra,469,Chhatrapati Sambhajinagar,,,,,true
+27,Maharashtra,488,Dharashiv,,,,,true
+27,Maharashtra,474,Dhule,,,,,true
+27,Maharashtra,475,Gadchiroli,,,,,true
+27,Maharashtra,476,Gondia,,,,,true
+27,Maharashtra,477,Hingoli,,,,,true
+27,Maharashtra,478,Jalgaon,,,,,true
+27,Maharashtra,479,Jalna,,,,,true
+27,Maharashtra,480,Kolhapur,,,,,true
+27,Maharashtra,481,Latur,,,,,true
+27,Maharashtra,482,Mumbai,,,,,true
+27,Maharashtra,483,Mumbai Suburban,,,,,true
+27,Maharashtra,484,Nagpur,,,,,true
+27,Maharashtra,485,Nanded,,,,,true
+27,Maharashtra,486,Nandurbar,,,,,true
+27,Maharashtra,487,Nashik,,,,,true
+27,Maharashtra,665,Palghar,,,,,true
+27,Maharashtra,489,Parbhani,,,,,true
+27,Maharashtra,490,Pune,,,,,true
+27,Maharashtra,491,Raigad,,,,,true
+27,Maharashtra,492,Ratnagiri,,,,,true
+27,Maharashtra,493,Sangli,,,,,true
+27,Maharashtra,494,Satara,,,,,true
+27,Maharashtra,495,Sindhudurg,,,,,true
+27,Maharashtra,496,Solapur,,,,,true
+27,Maharashtra,497,Thane,,,,,true
+27,Maharashtra,498,Wardha,,,,,true
+27,Maharashtra,499,Washim,,,,,true
+27,Maharashtra,500,Yavatmal,,,,,true
+14,Manipur,252,Bishnupur,,,,,true
+14,Manipur,253,Chandel,,,,,true
+14,Manipur,254,Churachandpur,,,,,true
+14,Manipur,255,Imphal East,,,,,true
+14,Manipur,256,Imphal West,,,,,true
+14,Manipur,713,Jiribam,,,,,true
+14,Manipur,711,Kakching,,,,,true
+14,Manipur,717,Kamjong,,,,,true
+14,Manipur,712,Kangpokpi,,,,,true
+14,Manipur,714,Noney,,,,,true
+14,Manipur,715,Pherzawl,,,,,true
+14,Manipur,257,Senapati,,,,,true
+14,Manipur,258,Tamenglong,,,,,true
+14,Manipur,716,Tengnoupal,,,,,true
+14,Manipur,259,Thoubal,,,,,true
+14,Manipur,260,Ukhrul,,,,,true
+17,Meghalaya,740,Eastern West Khasi Hills,,,,,true
+17,Meghalaya,273,East Garo Hills,,,,,true
+17,Meghalaya,657,East Jaintia Hills,,,,,true
+17,Meghalaya,274,East Khasi Hills,,,,,true
+17,Meghalaya,656,North Garo Hills,,,,,true
+17,Meghalaya,276,Ri Bhoi,,,,,true
+17,Meghalaya,277,South Garo Hills,,,,,true
+17,Meghalaya,663,South West Garo Hills,,,,,true
+17,Meghalaya,658,South West Khasi Hills,,,,,true
+17,Meghalaya,278,West Garo Hills,,,,,true
+17,Meghalaya,275,West Jaintia Hills,,,,,true
+17,Meghalaya,279,West Khasi Hills,,,,,true
+15,Mizoram,261,Aizawl,,,,,true
+15,Mizoram,262,Champhai,,,,,true
+15,Mizoram,726,Hnahthial,,,,,true
+15,Mizoram,728,Khawzawl,,,,,true
+15,Mizoram,263,Kolasib,,,,,true
+15,Mizoram,264,Lawngtlai,,,,,true
+15,Mizoram,265,Lunglei,,,,,true
+15,Mizoram,266,Mamit,,,,,true
+15,Mizoram,727,Saitual,,,,,true
+15,Mizoram,268,Serchhip,,,,,true
+15,Mizoram,267,Siaha,,,,,true
+13,Nagaland,758,Chumoukedima,,,,,true
+13,Nagaland,244,Dimapur,,,,,true
+13,Nagaland,614,Kiphire,,,,,true
+13,Nagaland,245,Kohima,,,,,true
+13,Nagaland,615,Longleng,,,,,true
+13,Nagaland,788,Meluri,,,,,true
+13,Nagaland,246,Mokokchung,,,,,true
+13,Nagaland,247,Mon,,,,,true
+13,Nagaland,764,Niuland,,,,,true
+13,Nagaland,736,Noklak,,,,,true
+13,Nagaland,613,Peren,,,,,true
+13,Nagaland,248,Phek,,,,,true
+13,Nagaland,765,Shamator,,,,,true
+13,Nagaland,757,Tseminyu,,,,,true
+13,Nagaland,249,Tuensang,,,,,true
+13,Nagaland,250,Wokha,,,,,true
+13,Nagaland,251,Zunheboto,,,,,true
+21,Odisha,344,Angul,,,,,true
+21,Odisha,345,Balangir,,,,,true
+21,Odisha,346,Balasore,,,,,true
+21,Odisha,347,Bargarh,,,,,true
+21,Odisha,348,Bhadrak,,,,,true
+21,Odisha,349,Boudh,,,,,true
+21,Odisha,350,Cuttack,,,,,true
+21,Odisha,351,Deogarh,,,,,true
+21,Odisha,352,Dhenkanal,,,,,true
+21,Odisha,353,Gajapati,,,,,true
+21,Odisha,354,Ganjam,,,,,true
+21,Odisha,355,Jagatsinghapur,,,,,true
+21,Odisha,356,Jajpur,,,,,true
+21,Odisha,357,Jharsuguda,,,,,true
+21,Odisha,358,Kalahandi,,,,,true
+21,Odisha,359,Kandhamal,,,,,true
+21,Odisha,360,Kendrapara,,,,,true
+21,Odisha,361,Keonjhar,,,,,true
+21,Odisha,362,Khordha,,,,,true
+21,Odisha,363,Koraput,,,,,true
+21,Odisha,364,Malkangiri,,,,,true
+21,Odisha,365,Mayurbhanj,,,,,true
+21,Odisha,366,Nabarangpur,,,,,true
+21,Odisha,367,Nayagarh,,,,,true
+21,Odisha,368,Nuapada,,,,,true
+21,Odisha,369,Puri,,,,,true
+21,Odisha,370,Rayagada,,,,,true
+21,Odisha,371,Sambalpur,,,,,true
+21,Odisha,372,Sonepur,,,,,true
+21,Odisha,373,Sundargarh,,,,,true
+34,Puducherry,598,Karaikal,,,,,true
+34,Puducherry,600,Puducherry,,,,,true
+3,Punjab,27,Amritsar,,,,,true
+3,Punjab,605,Barnala,,,,,true
+3,Punjab,28,Bathinda,,,,,true
+3,Punjab,29,Faridkot,,,,,true
+3,Punjab,30,Fatehgarh Sahib,,,,,true
+3,Punjab,651,Fazilka,,,,,true
+3,Punjab,31,Ferozepur,,,,,true
+3,Punjab,32,Gurdaspur,,,,,true
+3,Punjab,33,Hoshiarpur,,,,,true
+3,Punjab,34,Jalandhar,,,,,true
+3,Punjab,35,Kapurthala,,,,,true
+3,Punjab,36,Ludhiana,,,,,true
+3,Punjab,737,Malerkotla,,,,,true
+3,Punjab,37,Mansa,,,,,true
+3,Punjab,38,Moga,,,,,true
+3,Punjab,662,Pathankot,,,,,true
+3,Punjab,41,Patiala,,,,,true
+3,Punjab,42,Rupnagar,,,,,true
+3,Punjab,43,Sangrur,,,,,true
+3,Punjab,608,S.A.S Nagar,,,,,true
+3,Punjab,40,Shahid Bhagat Singh Nagar,,,,,true
+3,Punjab,39,Sri Muktsar Sahib,,,,,true
+3,Punjab,609,Tarn Taran,,,,,true
+8,Rajasthan,86,Ajmer,,,,,true
+8,Rajasthan,87,Alwar,,,,,true
+8,Rajasthan,775,Balotra,,,,,true
+8,Rajasthan,88,Banswara,,,,,true
+8,Rajasthan,89,Baran,,,,,true
+8,Rajasthan,90,Barmer,,,,,true
+8,Rajasthan,774,Beawar,,,,,true
+8,Rajasthan,91,Bharatpur,,,,,true
+8,Rajasthan,92,Bhilwara,,,,,true
+8,Rajasthan,93,Bikaner,,,,,true
+8,Rajasthan,94,Bundi,,,,,true
+8,Rajasthan,95,Chittorgarh,,,,,true
+8,Rajasthan,96,Churu,,,,,true
+8,Rajasthan,97,Dausa,,,,,true
+8,Rajasthan,767,Deeg,,,,,true
+8,Rajasthan,98,Dholpur,,,,,true
+8,Rajasthan,768,Didwana-Kuchaman,,,,,true
+8,Rajasthan,99,Dungarpur,,,,,true
+8,Rajasthan,100,Ganganagar,,,,,true
+8,Rajasthan,101,Hanumangarh,,,,,true
+8,Rajasthan,102,Jaipur,,,,,true
+8,Rajasthan,103,Jaisalmer,,,,,true
+8,Rajasthan,104,Jalore,,,,,true
+8,Rajasthan,105,Jhalawar,,,,,true
+8,Rajasthan,106,Jhunjhunu,,,,,true
+8,Rajasthan,107,Jodhpur,,,,,true
+8,Rajasthan,108,Karauli,,,,,true
+8,Rajasthan,770,Khairthal-Tijara,,,,,true
+8,Rajasthan,109,Kota,,,,,true
+8,Rajasthan,782,Kotputli-Behror,,,,,true
+8,Rajasthan,110,Nagaur,,,,,true
+8,Rajasthan,111,Pali,,,,,true
+8,Rajasthan,772,Phalodi,,,,,true
+8,Rajasthan,629,Pratapgarh,,,,,true
+8,Rajasthan,112,Rajsamand,,,,,true
+8,Rajasthan,777,Salumbar,,,,,true
+8,Rajasthan,113,Sawai Madhopur,,,,,true
+8,Rajasthan,114,Sikar,,,,,true
+8,Rajasthan,115,Sirohi,,,,,true
+8,Rajasthan,116,Tonk,,,,,true
+8,Rajasthan,117,Udaipur,,,,,true
+11,Sikkim,225,Gangtok,,,,,true
+11,Sikkim,228,Gyalshing,,,,,true
+11,Sikkim,226,Mangan,,,,,true
+11,Sikkim,227,Namchi,,,,,true
+11,Sikkim,741,Pakyong,,,,,true
+11,Sikkim,742,Soreng,,,,,true
+33,Tamil Nadu,610,Ariyalur,,,,,true
+33,Tamil Nadu,730,Chengalpattu,,,,,true
+33,Tamil Nadu,568,Chennai,,,,,true
+33,Tamil Nadu,569,Coimbatore,,,,,true
+33,Tamil Nadu,570,Cuddalore,,,,,true
+33,Tamil Nadu,571,Dharmapuri,,,,,true
+33,Tamil Nadu,572,Dindigul,,,,,true
+33,Tamil Nadu,573,Erode,,,,,true
+33,Tamil Nadu,729,Kallakurichi,,,,,true
+33,Tamil Nadu,574,Kancheepuram,,,,,true
+33,Tamil Nadu,575,Kanniyakumari,,,,,true
+33,Tamil Nadu,576,Karur,,,,,true
+33,Tamil Nadu,577,Krishnagiri,,,,,true
+33,Tamil Nadu,578,Madurai,,,,,true
+33,Tamil Nadu,735,Mayiladuthurai,,,,,true
+33,Tamil Nadu,579,Nagapattinam,,,,,true
+33,Tamil Nadu,580,Namakkal,,,,,true
+33,Tamil Nadu,581,Perambalur,,,,,true
+33,Tamil Nadu,582,Pudukkottai,,,,,true
+33,Tamil Nadu,583,Ramanathapuram,,,,,true
+33,Tamil Nadu,731,Ranipet,,,,,true
+33,Tamil Nadu,584,Salem,,,,,true
+33,Tamil Nadu,585,Sivaganga,,,,,true
+33,Tamil Nadu,733,Tenkasi,,,,,true
+33,Tamil Nadu,586,Thanjavur,,,,,true
+33,Tamil Nadu,588,Theni,,,,,true
+33,Tamil Nadu,587,The Nilgiris,,,,,true
+33,Tamil Nadu,589,Thiruvallur,,,,,true
+33,Tamil Nadu,590,Thiruvarur,,,,,true
+33,Tamil Nadu,594,Thoothukkudi,,,,,true
+33,Tamil Nadu,591,Tiruchirappalli,,,,,true
+33,Tamil Nadu,592,Tirunelveli,,,,,true
+33,Tamil Nadu,732,Tirupathur,,,,,true
+33,Tamil Nadu,634,Tiruppur,,,,,true
+33,Tamil Nadu,593,Tiruvannamalai,,,,,true
+33,Tamil Nadu,595,Vellore,,,,,true
+33,Tamil Nadu,596,Viluppuram,,,,,true
+33,Tamil Nadu,597,Virudhunagar,,,,,true
+36,Telangana,501,Adilabad,,,,,true
+36,Telangana,690,Bhadradri Kothagudem,,,,,true
+36,Telangana,686,Hanumakonda,,,,,true
+36,Telangana,507,Hyderabad,,,,,true
+36,Telangana,681,Jagitial,,,,,true
+36,Telangana,689,Jangoan,,,,,true
+36,Telangana,687,Jayashankar Bhupalapally,,,,,true
+36,Telangana,695,Jogulamba Gadwal,,,,,true
+36,Telangana,685,Kamareddy,,,,,true
+36,Telangana,508,Karimnagar,,,,,true
+36,Telangana,509,Khammam,,,,,true
+36,Telangana,699,Kumuram Bheem Asifabad,,,,,true
+36,Telangana,688,Mahabubabad,,,,,true
+36,Telangana,512,Mahabubnagar,,,,,true
+36,Telangana,684,Mancherial,,,,,true
+36,Telangana,513,Medak,,,,,true
+36,Telangana,700,Medchal Malkajgiri,,,,,true
+36,Telangana,720,Mulugu,,,,,true
+36,Telangana,694,Nagarkurnool,,,,,true
+36,Telangana,514,Nalgonda,,,,,true
+36,Telangana,721,Narayanpet,,,,,true
+36,Telangana,680,Nirmal,,,,,true
+36,Telangana,516,Nizamabad,,,,,true
+36,Telangana,682,Peddapalli,,,,,true
+36,Telangana,683,Rajanna Sircilla,,,,,true
+36,Telangana,518,Ranga Reddy,,,,,true
+36,Telangana,691,Sangareddy,,,,,true
+36,Telangana,692,Siddipet,,,,,true
+36,Telangana,696,Suryapet,,,,,true
+36,Telangana,698,Vikarabad,,,,,true
+36,Telangana,693,Wanaparthy,,,,,true
+36,Telangana,522,Warangal,,,,,true
+36,Telangana,697,Yadadri Bhuvanagiri,,,,,true
+38,The Dadra And Nagar Haveli And Daman And Diu,465,Dadra And Nagar Haveli,,,,,true
+38,The Dadra And Nagar Haveli And Daman And Diu,463,Daman,,,,,true
+38,The Dadra And Nagar Haveli And Daman And Diu,464,Diu,,,,,true
+16,Tripura,269,Dhalai,,,,,true
+16,Tripura,654,Gomati,,,,,true
+16,Tripura,652,Khowai,,,,,true
+16,Tripura,270,North Tripura,,,,,true
+16,Tripura,653,Sepahijala,,,,,true
+16,Tripura,271,South Tripura,,,,,true
+16,Tripura,655,Unakoti,,,,,true
+16,Tripura,272,West Tripura,,,,,true
+5,Uttarakhand,45,Almora,,,,,true
+5,Uttarakhand,46,Bageshwar,,,,,true
+5,Uttarakhand,47,Chamoli,,,,,true
+5,Uttarakhand,48,Champawat,,,,,true
+5,Uttarakhand,49,Dehradun,,,,,true
+5,Uttarakhand,50,Haridwar,,,,,true
+5,Uttarakhand,51,Nainital,,,,,true
+5,Uttarakhand,52,Pauri Garhwal,,,,,true
+5,Uttarakhand,53,Pithoragarh,,,,,true
+5,Uttarakhand,54,Rudraprayag,,,,,true
+5,Uttarakhand,55,Tehri Garhwal,,,,,true
+5,Uttarakhand,56,Udham Singh Nagar,,,,,true
+5,Uttarakhand,57,Uttarkashi,,,,,true
+9,Uttar Pradesh,118,Agra,,,,,true
+9,Uttar Pradesh,119,Aligarh,,,,,true
+9,Uttar Pradesh,121,Ambedkar Nagar,,,,,true
+9,Uttar Pradesh,640,Amethi,,,,,true
+9,Uttar Pradesh,154,Amroha,,,,,true
+9,Uttar Pradesh,122,Auraiya,,,,,true
+9,Uttar Pradesh,140,Ayodhya,,,,,true
+9,Uttar Pradesh,123,Azamgarh,,,,,true
+9,Uttar Pradesh,124,Baghpat,,,,,true
+9,Uttar Pradesh,125,Bahraich,,,,,true
+9,Uttar Pradesh,126,Ballia,,,,,true
+9,Uttar Pradesh,127,Balrampur,,,,,true
+9,Uttar Pradesh,128,Banda,,,,,true
+9,Uttar Pradesh,129,Bara Banki,,,,,true
+9,Uttar Pradesh,130,Bareilly,,,,,true
+9,Uttar Pradesh,131,Basti,,,,,true
+9,Uttar Pradesh,179,Bhadohi,,,,,true
+9,Uttar Pradesh,132,Bijnor,,,,,true
+9,Uttar Pradesh,133,Budaun,,,,,true
+9,Uttar Pradesh,134,Bulandshahr,,,,,true
+9,Uttar Pradesh,135,Chandauli,,,,,true
+9,Uttar Pradesh,136,Chitrakoot,,,,,true
+9,Uttar Pradesh,137,Deoria,,,,,true
+9,Uttar Pradesh,138,Etah,,,,,true
+9,Uttar Pradesh,139,Etawah,,,,,true
+9,Uttar Pradesh,141,Farrukhabad,,,,,true
+9,Uttar Pradesh,142,Fatehpur,,,,,true
+9,Uttar Pradesh,143,Firozabad,,,,,true
+9,Uttar Pradesh,144,Gautam Buddha Nagar,,,,,true
+9,Uttar Pradesh,145,Ghaziabad,,,,,true
+9,Uttar Pradesh,146,Ghazipur,,,,,true
+9,Uttar Pradesh,147,Gonda,,,,,true
+9,Uttar Pradesh,148,Gorakhpur,,,,,true
+9,Uttar Pradesh,149,Hamirpur,,,,,true
+9,Uttar Pradesh,661,Hapur,,,,,true
+9,Uttar Pradesh,150,Hardoi,,,,,true
+9,Uttar Pradesh,163,Hathras,,,,,true
+9,Uttar Pradesh,151,Jalaun,,,,,true
+9,Uttar Pradesh,152,Jaunpur,,,,,true
+9,Uttar Pradesh,153,Jhansi,,,,,true
+9,Uttar Pradesh,155,Kannauj,,,,,true
+9,Uttar Pradesh,156,Kanpur Dehat,,,,,true
+9,Uttar Pradesh,157,Kanpur Nagar,,,,,true
+9,Uttar Pradesh,633,Kasganj,,,,,true
+9,Uttar Pradesh,158,Kaushambi,,,,,true
+9,Uttar Pradesh,159,Kheri,,,,,true
+9,Uttar Pradesh,160,Kushinagar,,,,,true
+9,Uttar Pradesh,161,Lalitpur,,,,,true
+9,Uttar Pradesh,162,Lucknow,,,,,true
+9,Uttar Pradesh,165,Mahoba,,,,,true
+9,Uttar Pradesh,164,Mahrajganj,,,,,true
+9,Uttar Pradesh,166,Mainpuri,,,,,true
+9,Uttar Pradesh,167,Mathura,,,,,true
+9,Uttar Pradesh,168,Mau,,,,,true
+9,Uttar Pradesh,169,Meerut,,,,,true
+9,Uttar Pradesh,170,Mirzapur,,,,,true
+9,Uttar Pradesh,171,Moradabad,,,,,true
+9,Uttar Pradesh,172,Muzaffarnagar,,,,,true
+9,Uttar Pradesh,173,Pilibhit,,,,,true
+9,Uttar Pradesh,174,Pratapgarh,,,,,true
+9,Uttar Pradesh,120,Prayagraj,,,,,true
+9,Uttar Pradesh,175,Rae Bareli,,,,,true
+9,Uttar Pradesh,176,Rampur,,,,,true
+9,Uttar Pradesh,177,Saharanpur,,,,,true
+9,Uttar Pradesh,659,Sambhal,,,,,true
+9,Uttar Pradesh,178,Sant Kabir Nagar,,,,,true
+9,Uttar Pradesh,180,Shahjahanpur,,,,,true
+9,Uttar Pradesh,660,Shamli,,,,,true
+9,Uttar Pradesh,181,Shrawasti,,,,,true
+9,Uttar Pradesh,182,Siddharthnagar,,,,,true
+9,Uttar Pradesh,183,Sitapur,,,,,true
+9,Uttar Pradesh,184,Sonbhadra,,,,,true
+9,Uttar Pradesh,185,Sultanpur,,,,,true
+9,Uttar Pradesh,186,Unnao,,,,,true
+9,Uttar Pradesh,187,Varanasi,,,,,true
+19,West Bengal,664,Alipurduar,,,,,true
+19,West Bengal,305,Bankura,,,,,true
+19,West Bengal,307,Birbhum,,,,,true
+19,West Bengal,308,Cooch Behar,,,,,true
+19,West Bengal,310,Dakshin Dinajpur,,,,,true
+19,West Bengal,309,Darjeeling,,,,,true
+19,West Bengal,312,Hooghly,,,,,true
+19,West Bengal,313,Howrah,,,,,true
+19,West Bengal,314,Jalpaiguri,,,,,true
+19,West Bengal,703,Jhargram,,,,,true
+19,West Bengal,702,Kalimpong,,,,,true
+19,West Bengal,315,Kolkata,,,,,true
+19,West Bengal,316,Malda,,,,,true
+19,West Bengal,319,Murshidabad,,,,,true
+19,West Bengal,320,Nadia,,,,,true
+19,West Bengal,303,North 24 Parganas,,,,,true
+19,West Bengal,704,Paschim Bardhaman,,,,,true
+19,West Bengal,318,Paschim Medinipur,,,,,true
+19,West Bengal,306,Purba Bardhaman,,,,,true
+19,West Bengal,317,Purba Medinipur,,,,,true
+19,West Bengal,321,Purulia,,,,,true
+19,West Bengal,304,South 24 Parganas,,,,,true
+19,West Bengal,311,Uttar Dinajpur,,,,,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645012,Mus,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645013,Teetop,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645016,Kimois,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645017,Kakana,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645020,Perka,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645021,Tamaloo,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645022,Kinyuka,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645023,Chuckchucha,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645024,Tapoiming,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645014,Sawai,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645015,Arong,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645018,Iaf Camp,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645019,Malacca,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645025,Big Lapati,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645026,Small Lapati,true
+35,Andaman And Nicobar Islands,603,Nicobars,5916,Car Nicobar,645027,Kinmai,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645159,Elahi/Ilhoya,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645190,Galathia River (Fc),true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645205,Gol Tikrey,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645182,Hin-Pou-Chi,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645151,Hoin Incl. Ikuia,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645154,Hokesiang,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645145,Inlock/Infock,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645157,Inlock/Pattia,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645160,Inod,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645177,Kasintung,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645165,Katahu,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645149,Kiyang,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645144,Akupa,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645168,Alexandera River,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645142,Anul/Anula,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645173,Renguang,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645178,Koe,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645183,Kokeon,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645175,Kopenheat,true
+35,Andaman And Nicobar Islands,603,Nicobars,5918,Great Nicobar,645210,Lanaya,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645053,Alhitoth/Alhiloth*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645052,Alkaipoh/Alkripoh*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645115,Alointung*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645035,Aloora*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645101,Alreak*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645076,Alsama*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645074,Altaful*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645066,Atkuna/Alkun*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645109,Bumpal*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645065,Chengtamilan*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645059,Chonsiyala*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645050,Chonghipoh*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645069,Hakonhala*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645073,Halnatai/Hoinatai*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645087,Hindra*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645097,Hinnunga*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645102,Hintona*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645048,Hitlat*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645063,Hoipoh*,true
+35,Andaman And Nicobar Islands,603,Nicobars,5917,Nancowry,645060,Hontona*,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595083,Rachanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595089,Katiganikalva,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595082,Somanadoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595080,Kodimi,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595099,Kakkalapalle (Ct),true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595093,Kandakur,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595084,Sajjalakalva,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595081,Thaticherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595092,Jangalapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595086,Gollapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595090,Upparapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595094,Chiyyedu,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595088,Alamuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595085,Kurugunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595097,Papampeta (Ct),true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595087,Kamarupalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595095,Mannila,true
+28,Andhra Pradesh,502,Ananthapuramu,5330,Anantapur Rural,595091,Itikalapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,7426,Anantapur Urban,595096,Narayanapuram (Ct),true
+28,Andhra Pradesh,502,Ananthapuramu,7426,Anantapur Urban,912404,Anantapur Rural,true
+28,Andhra Pradesh,502,Ananthapuramu,7426,Anantapur Urban,595098,Anantapur (Ct),true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594959,Madigubba,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594961,Goridindla,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594962,Sanapa,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594963,Brahmana Yaleru,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594957,Padamatiyaleru,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594958,Talupuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594960,Atmakur,true
+28,Andhra Pradesh,502,Ananthapuramu,5322,Atmakur,594964,Thopudurthi,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594915,Gangavaram,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594903,Sreerangapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594904,Narinjagundlapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594905,Beluguppa,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594906,Thagguparthy,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594907,Budigumma,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594908,Ankampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594912,Seerpi,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594916,Kalvapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594909,Yerragudi,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594910,Avulenna,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594911,Narasapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594913,Duddekunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5318,Beluguppa,594914,Konampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594691,Untakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594692,Bommanahal,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594694,Siddarampuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594695,Haresamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594696,Bollanaguddam,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594699,Uddehal,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594700,Kolaganahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594702,Sreedharaghattu,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594704,Govindawada,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594690,Nemakallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594693,Kuruvalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594697,Kalludevanahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594698,Bandur,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594701,Elanji,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594703,Singanahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5307,Bommanahal,594705,D.Honnur,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594928,Gundiganihalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594929,Bhyravanithippa,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594931,Eradikera,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594933,Chelimenahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594935,Yerrakondapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594938,Theetakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594939,Pillalapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594940,Santhekondapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594930,West Kodipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594932,Vepalaparthy,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594934,Brahmasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594936,Bhairasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5320,Brahmasamudram,594937,Kannepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595066,Podaralla,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595067,Janthulur,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595069,Korrapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595070,Chennampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595073,Siddampeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595077,Siddarampuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595079,Kondakinda Agraharam,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595068,Chedulla,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595071,Bodiganidoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595072,Chennarayunipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595074,Govindapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595075,Bukkarayasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595076,Reddipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5329,Bukkaraya Samudram,595078,Danduvaripalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594642,H.Siddapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594643,Obulapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594644,D.Hirehal,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594646,Lakshmipuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594648,Lingamanahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594649,Jajarakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594650,Hirdehal,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594652,Nagalapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594655,Dodagatta,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594657,Hulikal,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594658,Muradi,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594641,Malapanagudi,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594647,Madenahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594651,Pulakurthi,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594653,Somalapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594654,Kudulur,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594656,Kadalur,true
+28,Andhra Pradesh,502,Ananthapuramu,5304,D.Hirehal,594645,H.Hossahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594978,Penakacherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594979,Koppalakonda,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594980,Kesavapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594984,Illuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594985,Kanampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594986,Ankampeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594988,Krishnapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594989,Yerraguntla,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594990,Kotanka,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594992,Budedu,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594993,Garladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594994,Obulapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594995,Jambuladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594981,Muntimadugu,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594982,Kalluru Agraharam,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594983,Kalluru,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594987,Sirivaram,true
+28,Andhra Pradesh,502,Ananthapuramu,5324,Garladinne,594991,Marthadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594738,Bethapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594739,Utakallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594740,Ubicherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594741,Karadikonda,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594742,Dharmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594743,Basinepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594744,Kojjepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594746,Marnepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594747,Peddoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594749,Eswarapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594757,Engilibanda,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594758,Thondapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594759,Jakkalacheruvu,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,931726,Chetnepalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594745,Rajapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594748,Brahmanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594750,Mamadur,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594751,Erragudi,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594752,Aniganidoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5310,Gooty,594753,Abbedoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594917,Galagala,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594918,Gollapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594920,Belodu,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594923,Kalugodu,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594924,Pulakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594925,Rangasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594926,Tallakera,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594919,Veerapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594921,S.Hosahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594922,Bhupasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5319,Gummagatta,594927,Gummagatta,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594721,Sangala,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594723,Gundala,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594725,Konganapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594727,Obulapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594732,Guntakal (R),true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594737,Ayyavaripalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594720,Kasapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594722,Dosaludiki,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594724,Ameenpalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594726,Sankarabanda,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594728,Yerrathimmarayachervu,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594729,Patha Kothachervu,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594730,Nakkanadoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594731,Thimmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594733,Donimukkala,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594734,Nelagonda,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594735,Dancherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,594736,Nagasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5309,Guntakal,930350,Thimmanacherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594942,Chapiri,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594944,Garudapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594947,Duradakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594950,Golla,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594952,Varli,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594954,Manirevu,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594955,Thimmasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594941,Hulikal,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594945,Kurubarahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594946,Bedrahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594948,Palavoy,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594949,Mudigal,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594951,East Kodipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594953,Muddinayanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594943,Kalyandurg (Rural),true
+28,Andhra Pradesh,502,Ananthapuramu,5321,Kalyanadurg,594956,Kalyandurg (Ct),true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595133,Kambadur,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595135,Ramapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595136,Nuthimadugu,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595138,Gulyam,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595140,Rallapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595142,Kurakulapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595131,Mulakanur,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595132,Thimmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595134,Pallur,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595137,Karthanaparthi,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595139,Ralla Anantapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5334,Kambadur,595141,Chennampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594675,Hulikera,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594677,Ratchumarri,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594678,Kanekal,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594681,Bidurukontham,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594682,Meenahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594683,Garudachedu,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594684,Thumbiganur,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594685,N.Hanumapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594687,Malyam,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594688,Kalekurthi,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594689,Hanakanahal,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594673,Ganigera,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594674,Yerragunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594676,Bennikal,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594679,Udegolam,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594680,Brahmasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5306,Kanekal,594686,Sollapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594965,Udiripikonda,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594966,Marutla,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594967,Kalagalla,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594968,Ipperu,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594970,Korrakodu,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594971,Jayapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594969,Cholasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594972,Mavinamardhanahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594973,Thimmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594974,Kudair,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594975,Kamuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594976,Gotukur,true
+28,Andhra Pradesh,502,Ananthapuramu,5323,Kudair,594977,Brahmanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595125,S.Mallapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595127,Kundurpi,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595128,Malayanur,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595129,Nijavalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595130,Jambugumpala,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595121,Basapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595122,Appilepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595123,Kariganipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595124,Yenumaladoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5333,Kundurpi,595126,Bestharapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595060,Siddaracherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595062,Bandlapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595064,Gugudu,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595054,Chamaluru,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595055,Nadimidoddi,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595056,Venkatampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595057,Narpala,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595058,Duggumarri,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595059,Bondalawada,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595061,Durgam,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595063,B.Pappuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5328,Narpala,595065,Haveli Sodanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594845,Devarapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594850,Gajarampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594858,Ramagiri,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594859,Palyam,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594860,Katrimala,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594861,Appajipeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594843,Anumpalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594844,Khadarpeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594846,Gulimikondla @ G.Kottala,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594847,Akkajampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594848,Edurur,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594849,Ramarajupalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594851,Pogarur,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594852,Thamballapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594853,Neelur,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594854,Kalapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594855,Nemallapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594856,Sorakayalapeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594857,Eddulapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5315,Pamidi,594862,Kandlapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594826,Devanuppalapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594828,Peddayakkaluru,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594829,Garladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594832,Pendekallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594834,Narasapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594836,Jutur,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594839,Chagallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594840,Tabjula,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594841,Muchukota,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594827,Chinnayakkaluru,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594830,Pasalur,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594831,Athiralladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594833,Kummetha,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594835,Jodidharmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594837,Dharmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594838,Peddapappur,true
+28,Andhra Pradesh,502,Ananthapuramu,5314,Peddapappur,594842,Amalladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594764,Appecherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594765,Kristipadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594767,Mallenipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594769,Miduthuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594770,Peddavadugur,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594772,Ravuludiki,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594773,Konapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594774,Chintacheruvu,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594775,Teliki,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594776,Chinnavadugur,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594777,Penakalapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594781,Chitturu,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594783,Chitrachedu,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594761,Gooty Ananta Puram,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594762,Virupapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594763,G. Venkatampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594766,Muppalagutti,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594768,Avulampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594771,Medimakulapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5311,Peddavaduguru,594778,Konduru,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595019,Surepalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595020,Chintakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595021,Kandikapula,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595022,Putlur,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595023,Gandlapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595025,Komatikuntla,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595027,Kadavakallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595032,Chalavemula,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595034,Chintalapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595018,Arakativemula,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595024,Sanagalaguduru,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595026,Cherlopalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595028,Dosaledu,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595029,Madugupalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595030,Ellutla,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595031,Kummanamala,true
+28,Andhra Pradesh,502,Ananthapuramu,5326,Putlur,595033,Chinnamallepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595100,Bommaparthy,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595102,Gangulakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595103,Hampapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595104,Gondireddipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595110,Maroor,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595101,Raptadu (Part),true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595105,Bukkacherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595106,Gandlaparthi,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595107,Palacherla,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595108,Bandameedapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5331,Rapthadu,595109,Yerragunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594659,Mechiri,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594661,Chadam,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594662,Bondankal,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594666,Kontanapalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594667,Udegolam,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594670,Nagireddipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594672,Junjurampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,931725,Rayadurgam,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594660,Mallapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594663,Gramadatla,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594664,D.Kondapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594665,Vadrahonnur,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594668,Baginayakana Halli,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594669,Avuladatla,true
+28,Andhra Pradesh,502,Ananthapuramu,5305,Rayadurg,594671,Veparalla,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595112,Adivigollapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595115,Kamthanahalli,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595116,Ayyagarlapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595111,Settur,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595113,Yatakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595114,Bachchupalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595117,Mulakaledu,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595118,Chintarlapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595119,Khairevu,true
+28,Andhra Pradesh,502,Ananthapuramu,5332,Settur,595120,Lakshmanpalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,594997,Tarimela,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595004,Cheelapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595005,Salakamcheruvu,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595007,Narsapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595009,Chennavaram,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595010,Lolur,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595012,Karnatakampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595017,Peravali,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,594996,Kallumadi,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,594998,Nidhanawada,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,594999,Anandaraopeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595000,Rachepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595001,Ullikallu,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595002,Korivipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595003,Joolakalva,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595006,Buddepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595008,Peddajalalpuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595011,Akuledu,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595013,Chakrayapeta,true
+28,Andhra Pradesh,502,Ananthapuramu,5325,Singanamala,595014,Singanamala,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594802,Talaricheruvu,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594803,Uruchinthala,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594804,Velamakur,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594805,Alur,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594807,Kaverisamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594809,Puliproddatur,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594812,Seetharampuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594813,Komali,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594814,Peddapolamada,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594815,Chinnapolamada,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594820,Jambulapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594822,Veerapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594824,Vanganur,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594825,Bondaladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594799,Brahmanapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594800,Venkatampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594801,Bhogasamudram,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594806,Sajjaladinne,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594808,Chukkalur,true
+28,Andhra Pradesh,502,Ananthapuramu,5313,Tadipatri,594810,Gangadevipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594881,Nerimetla,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594883,Renimakulapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594886,Lathavaram,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594891,Chinna Musturu,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594892,Pedda Musturu,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594893,Mopidi,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594898,Raketla,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594899,Peddakowkuntla,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594900,Y.Rampuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594882,Rayampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594884,Budagavi,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594885,Veligonda,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594887,Shaiksanipalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594888,Racharla,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594889,Pennahobilam,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594890,Kondapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594894,Indravathi,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594895,Nimbagal,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594896,Vyasapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5317,Uravakonda,594897,Amidala,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594865,Konakondla,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594866,Gulapalem,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594867,Kamalapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594868,Vajrakarur,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594870,Pottipadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594875,Patha Kadamalakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594878,Pandikunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594879,Venkatampalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594880,Jarutla Rampuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594869,Ganjikunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594871,Gade Hothur,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594872,Chabala,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594873,Chinna Hothur,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594874,Pedda Chinnapyapili,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594876,Ragulapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5316,Vajrakarur,594877,Thatrakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594707,Kadadarabenchi,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594708,Gadekal,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594712,Velpumadugu,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594714,Malapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594715,Karakamukkala,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594716,Havaligi,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594718,Cheekalaguriki,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594719,Undabanda,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594706,Donekal,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594709,Hanchanahal,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594710,Poliki,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594711,N.Thimmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594713,Vidapanakal,true
+28,Andhra Pradesh,502,Ananthapuramu,5308,Vidapanakal,594717,Palthur,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594785,Chandana,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594788,Nagarur,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594790,Thimmapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594792,Yadiki,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594793,Obulapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594796,Gudipadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594797,Kamalapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594798,Nittoor,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594786,Rayalacheruvu,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594787,Tutrallapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594789,Puppala,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594791,Vemulapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594794,Konuppalapadu,true
+28,Andhra Pradesh,502,Ananthapuramu,5312,Yadiki,594795,Kundanakota,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595035,Vemulapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595037,Nitturu,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595038,Peddamallepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595039,Thirumalapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595040,Yellanur,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595041,Kacharlakunta,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595042,Pathapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595044,Kodumurthy,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595045,Chilamakuru,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595047,Bukkapuram,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595049,Mallagundla,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595051,Goddumarri,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595052,Singavaram,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595053,Kalluru,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595036,Medukurthy,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595043,Vennapurapalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595046,Boppepalle,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595048,Aravedu,true
+28,Andhra Pradesh,502,Ananthapuramu,5327,Yellanur,595050,Y.Chintakayamanda,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596743,Alapalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596744,Gollachemana Palle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596745,Peddachellaragunta,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596747,Settipalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596749,Kambhampalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596751,Kaigallu,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596753,Pathurnatham,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596756,Baireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596758,Kammanapalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596760,Mulathimmepalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596764,Veerlabanda,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596767,Thimmaiahgaripalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596763,Chappidipalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596746,Belupalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596748,Lakkanapalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596750,Theertham,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596752,Devadoddi,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596754,Kadapanatham,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596755,Gounithimmepalle,true
+28,Andhra Pradesh,503,Chittoor,5423,Baireddipalle,596757,Ganginayanipalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597012,Thumba,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597013,Thumba Kuppam,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597014,Setteri,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597016,Sadakuppam,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597017,Nallangadu,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597020,Nalagampalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597021,Thambuganipalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597025,Beripalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597026,Gundla Kattamanchi,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597027,Kallurupalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597028,Bodabandla,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597032,Paleru,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597034,Tekumanda,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597036,Vepanapalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597038,Kalvamogilappa Kandriga,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597015,Thoompayanapalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597018,Mothagunta,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597019,Venkatagiri,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597022,Noonegundlapalle,true
+28,Andhra Pradesh,503,Chittoor,5429,Bangarupalem,597023,Mahasamudram,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596699,Bakara Narasinga Rayani Peta,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596719,Pachanapalle,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596693,Thenebanda (Part),true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596702,Krishnapuram,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596716,Chinthalagunta,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596724,Venkatapuram,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596695,Ayanavedu,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596704,Guvvakallu,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596700,Arathala,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596698,Paluru,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596701,Bandapalle,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596703,Gollapalle,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596721,S.Venkatapuram,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596697,Anagallu,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596714,Varadarajulapalle,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596696,Muthukuru,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596710,Thumminda,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596720,Settiappam Thangal,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596718,Ananthapuram,true
+28,Andhra Pradesh,503,Chittoor,5421,Chittoor Rural,596717,Thalambedu,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930504,Iruvaram,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930501,Chittoor,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930502,Gandlapalle,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930503,Greamspeta,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930505,Kattamanchi,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,930506,Thimmasamudram,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596726,Murakambattu (Ct),true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596706,Anupalle (Part),true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596712,Narigapalle,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596713,Lakshmambapuram,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596707,Mapakshi,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596705,Anupalle,true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596727,Doddipalle (Og),true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596725,Mangasamudram (Ct),true
+28,Andhra Pradesh,503,Chittoor,7427,Chittoor Urban,596708,Mapakshi,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596658,Vezzupalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596661,Vinjam,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596662,Veerakanellore,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596663,Kotagaram,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596664,Nandanoor,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596666,Peddakalva,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596669,Gollapalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596672,Varathuru,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596673,Pachigunta,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596678,Mukkelathuru,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596679,Mahadevamangalam,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596681,Kadapagunta,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596683,Errabodireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596686,Pathapalem,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596690,B.C.Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596691,Garigalapalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596659,Nellipalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596660,Kondepalle,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596665,Kotrakona,true
+28,Andhra Pradesh,503,Chittoor,5420,Gangadhara Nellore,596667,Kalijavedu,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596580,Gundugallu,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596581,Pasupathur,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596582,Gandrajupalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596583,Keelapalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596585,Mamadugu,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596587,Maredupalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596591,Melumoy,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596592,Kothapalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596593,Gangavaram (Part),true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596594,Keelapatla,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596584,Pathikonda,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596586,Jeedimakulapalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596588,Dandapalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596589,Kalagatoor,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596590,Kallupalle,true
+28,Andhra Pradesh,503,Chittoor,5417,Gangavaram,596595,Mogilpalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597063,Ramapuram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597064,Mogaralapalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597066,Gollapalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597068,Adilakshmamba Puram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597077,Papasamudram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597078,Bandapalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597079,Chittapara,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597081,Vasanthapuram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597084,Thimmaiahpalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597085,Ragimanupatteda,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597086,Venkata Lakshmamba Puram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597092,Bomma Samudram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597065,Cheelapalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597067,Naragallu,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597069,Cheruvu Mundara Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597070,Kaidugani Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597071,Ramapuram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597072,Krishna Jammapuram,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597073,Srirangampalle,true
+28,Andhra Pradesh,503,Chittoor,5431,Gudipala,597074,Muthukurpalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596862,Bisanatham,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596863,Athinatham,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596864,Avulathimmanapalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596866,Lingapuram Dinne,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596868,Anganamalakothuru,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596869,Kuppiganipalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596870,Kotachembagiri,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596874,Sirigiripalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596875,Gudupalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596877,Yamaganipalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596878,Nalagampalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596879,Beggilipalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596880,Gokarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596882,Settipalle @ K.Bandarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596886,Kotapalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596888,Anagarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596889,Cheekatipalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596890,Bijiganipalle,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596893,Malavanikothur,true
+28,Andhra Pradesh,503,Chittoor,5426,Gudupalle,596895,Burugulapalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596485,Irala,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596486,Venkata Samudra Agraharam,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596489,Kollapalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596490,Pulluru,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596491,Kaminayanipalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596492,Puthramaddi,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596493,Mudigolam,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596495,Chigarapalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596496,Kanipakam,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596479,Ayyala Krishna Reddipalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596480,Nampalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596481,Polakala,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596482,Gundlapalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596483,Peddasamireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596484,Morampalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596487,Erlampalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596488,Sanganapalle,true
+28,Andhra Pradesh,503,Chittoor,5411,Irala,596494,Kothapalle,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596417,Kasavarajapura Agraharam,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596421,Viratapuram,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596423,Karvetinagar,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596425,Damodara Maharajapuram,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596430,Alathur,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596433,Kollagunta,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596439,Surendranagaram,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596415,Erramrajupalle,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596416,Gazanki,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596418,Ponnagallu,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596419,Katherapalle,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596420,Kesavakuppam,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596422,Tirumalakondamambagaripeta,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596424,Nissankadurgam,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596426,Rajakumaravenkata Bahadurpet,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596427,Makamambavilasam,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596428,Annurkasabagayat,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596429,Annur,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596431,Mukkaravaripalle,true
+28,Andhra Pradesh,503,Chittoor,5408,Karvetinagar,596432,Battuvaripalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596910,Bairaganipalle (Rural),true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596913,Guttapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596914,Seegalapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596915,Kangundi,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596918,Dasegowniyur,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596920,Ellajjanuru,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596923,Kathimanipalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596925,Noolakunta,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596927,Sajjalapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596929,Mittapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596930,Kothapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596931,Kakimadugu,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596933,Chinna Bangarunatham,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596934,Pedda Bangarunatham,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596936,Vendugampalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596937,Gudlakadirepalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596938,Gonugur,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596941,Chalarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596942,Porakuntlapalle,true
+28,Andhra Pradesh,503,Chittoor,5427,Kuppam,596945,Urinayanipalle,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596386,Velavadi,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596387,Agaram,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596389,Damarapakam,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596391,Therani (R),true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596393,Mudipalle,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596394,Venkatanarasimha -Rajuvaripet,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596395,Saraswathivilasapuram,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596396,Taduku,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596398,Veerakaverirajupuram,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596399,Nagarajukuppam,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596401,Kannikapuram,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596402,Oranthangal Gollakuppam,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,930508,Kakavedu,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,930512,Salvapatteda,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,930514,Sreeranganaagaragraham,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596383,Adavikothuru,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596384,Gundrajukuppam (R),true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596385,Mangadu,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596388,Tiruvengamambapuram,true
+28,Andhra Pradesh,503,Chittoor,5406,Nagari,596390,Mittapalem,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596352,Koppedu Acharyula Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596355,Chavarambakam,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596356,Arur,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596357,Iruguvai,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596358,Padiri,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596360,Netteri,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596361,Kacharavedu,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596362,Nindra,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596364,Athur,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596350,Kavanur,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596351,Sri Ramapuram,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596353,Samayapuram,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596354,Elakatur,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596359,Kunama Raju Palem,true
+28,Andhra Pradesh,503,Chittoor,5404,Nindra,596363,Agaram,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596729,Jagamarla,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596733,Jallipeta,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596735,Sree Ranga Rajpuram,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596736,Ayyamreddi Palle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596737,Ankamvaripalle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596738,Gundlapalle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596739,Kolamasana Palle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596742,Chethapenta,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,930526,Palamaneru,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596728,Ranganayanipalle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596730,Pengara Kunta,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596731,Samudrapalle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596732,Kurmoi,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596734,Moram (Part),true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596740,Karidimadugu,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,596741,Baippagari Palle,true
+28,Andhra Pradesh,503,Chittoor,5422,Palamaner,930525,Nagamangalam,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597095,Vanadurgapuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597101,Matavalam,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597102,Vengalarajukuppam,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597103,Lakshminarasimha Puram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597104,Amudala,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597106,Amudalaputhur,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597112,Allipoolagunta,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597096,Siddiraju Rangaraju Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597097,Krishnajammapuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597098,Srikaverirajupuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597099,Simharajupuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597100,Palasamudram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597105,Kaverirajupuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597107,Balakrishnapuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597108,Ramakrishnapuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597109,Mamidimanumoola,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597110,Tirumalarajupuram,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597111,Narasimhapuram @ A.Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5432,Palasamudram,597113,Gangamambapuram,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596560,Peddavelagatur,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596562,Sankarayalapeta,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596564,Nidigunta,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596566,Chamaneru,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596567,Bommarajupalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596568,Muthukur,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596571,Thurlapalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596572,Veerapalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596574,Kolathur,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596575,Gamkonda,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596576,Rayalapeta,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596577,Nagireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596565,Mudarampalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596569,Chalamangalam,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596558,Battamdoddi,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596559,Karasanapalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596561,Appinapalle,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596563,Sivadi,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596570,Peddapanjani,true
+28,Andhra Pradesh,503,Chittoor,5416,Peddapanjani,596573,Suddagundlapalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596443,Thathireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596444,Charvaganipalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596446,Kamachinnaiahpalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596447,Chennasamudra Agraharam,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596448,Guntipalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596450,Kondama Agraharam,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596453,Kaligiri,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596455,Kalvagunta,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596441,Chinthapenta,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596442,Ammagaripalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596445,Penumuru,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596449,Mopireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596451,Samireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596452,Chinnamareddi Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596454,Nanjarapalle,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596456,Sathambakam,true
+28,Andhra Pradesh,503,Chittoor,5409,Penumur,596457,Pulikallu,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596173,E.Ramireddigari Palle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596177,Kallur,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596178,Devalampet,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596179,Bandaruvaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596181,Ramireddigaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596183,Mangalampeta,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596184,Vallivetivaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596186,Rayavaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596174,Ayyavandlapalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596175,Venkatadasari Palle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596176,Bodireddigaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596180,Reddivaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596182,Gaddamvaripalle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596185,Yellankivaripallle,true
+28,Andhra Pradesh,503,Chittoor,5395,Pulicherla,596187,Kavetigaripalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596461,Potukanuma,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596463,Chitipiralla,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596467,Venuthanapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596470,Vepanapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596472,Baitapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596474,Puthalapattu,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596475,Oddepalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596477,Vavilthota,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596478,Muthirevula,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596458,Paturu,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596459,Erracheruvupalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596460,Thalupulapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596462,Kothakota,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596464,Siddalinganapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596465,Thippanapalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596466,Goduguchinta,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596468,Polavaram,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596469,Akanambattu,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596471,Thenepalle,true
+28,Andhra Pradesh,503,Chittoor,5410,Puthalapattu,596473,Peta Agraharam,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596974,Konganapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596976,Cheldiganipalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596978,Baipparedlapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596980,Thimmasamudram,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596985,Giddapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596986,Ramakuppam,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596991,Muddanapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596992,Bondalagunta,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596993,Kadasinakuppam,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596996,Balaobanapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596997,Singasamudram,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,597003,Peddaganur,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,597005,Govindapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,597007,Reddivanipodu,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,597010,Balla,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596975,Kollupalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596977,Rajupeta,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596979,Kempasamudram,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596981,Bandarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5428,Ramakuppam,596982,Gorivimakulapalle,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595699,Rompicherla,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595701,Peddagottigallu,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595702,Bommaiahgari Palle,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595696,Ganugachintha,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595697,Motumallela,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595698,Peddamallela,true
+28,Andhra Pradesh,503,Chittoor,5373,Rompicherla,595700,Bandakindapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596805,Nallappareddiyuru,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596807,Bendanakuppam,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596810,Sathu,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596813,Motakothuru,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596814,Chinagandlapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596815,Krishnapuram,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596816,Boyanapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596818,Matam Santhampalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596819,Kenamakulapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596820,Joniganuru,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596825,Karumatla,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596826,Dommarathippana Palle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596827,Muddanapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596828,Cheemanapalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596829,Karlagatta,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596832,Thumsi,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596833,Donkumanipalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596837,Dandikuppam,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596838,Sonnegownipalle,true
+28,Andhra Pradesh,503,Chittoor,5425,Santhipuram,596839,Ammavaripeta,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596620,D.B.R.Bylu,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596621,Muchalamarri,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596622,Pillarikuppam,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596623,Venkatapuram,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596624,Chillamakulapalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596625,Chekkamadugu,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596626,Muddikuppam,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596627,Nelavoy,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596629,Pathapalem,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596632,Kannikapuram,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596635,Kannikapuram,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596637,Pedakondepalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596638,Marripalle Dakshinapu Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596640,Basivireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596641,Kothapalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596642,Vilasavarahapuram,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596643,Kotarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596644,Srungara Sekhara Rajupuram,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596645,Arimakulapalle,true
+28,Andhra Pradesh,503,Chittoor,5419,Srirangarajapuram,596646,Nallepalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596597,Mallakunta,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596598,Madhavaram,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596599,Kattakindapalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596602,Gurukavaripalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596604,Eachaneri,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596605,Aragonda,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596609,Diguva Magham,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596610,Eguva Thadakara,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596611,Pallecheruvu,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596614,Thavanampalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596615,Thavanampalle Puttur,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596617,Punya Samudram,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596618,Patnam,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596596,Sarakallu,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596600,Gandupalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596601,Govindareddipalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596603,Cherlopalle,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596606,Paimagham,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596607,Muthukur,true
+28,Andhra Pradesh,503,Chittoor,5418,Thavanampalle,596608,Mathyam,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596205,Brahmanapalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596209,Komaragunta,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596212,Mambedu,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596216,Veperi,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596218,Jakkidona,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596222,Devaragudipalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596223,Jadabapanapalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596224,Thettuguntapalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596225,Devalampeta,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596229,Etterangapalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596230,Garampalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596231,Allamadugu,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596233,Makamabapuram,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,911842,Allamadugu Hw,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596203,Kaverimaharajulungariagraharam,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596204,Kurivikuppam,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596206,Mondivenganapalle,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596207,Vedurukuppam,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596208,Inamkothuru,true
+28,Andhra Pradesh,503,Chittoor,5397,Vedurukuppam,596210,Pachikapalem,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596768,Jounipalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596770,Krishnapuram,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596771,Nernipalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596775,Hanumapalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596777,Bodiguttapalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596780,Yalakallu,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596781,Mudaramdoddi,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596783,Vogu,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596785,Gudipalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596787,Venkatagirikota,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596788,Pedda Bharanipalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596789,Vibhuthiyela Nagaram,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596790,Padigalakuppam,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596792,Sivunikuppam,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596793,Nadeetheeram Dasarlapalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596797,Kothakota,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596798,S.Bandapalle (Bandapalle),true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596799,Konerugollapalle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596801,Boya Chinnaganna Palle,true
+28,Andhra Pradesh,503,Chittoor,5424,Venkatagirikota,596769,Thota Kanuma,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596366,Kalikapuram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596367,Ella Samudram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596368,Buchivanatham,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596370,Kaliambakam,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596371,Sami Reddi Khandriga,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596375,Mangalam,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596376,Jagannadhapuram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596377,Vijaya Puram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596378,Illathuru,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596379,Patha Arcot,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596380,Kosala Nagaram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596365,Gangamamba Puram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596369,Alapakam,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596372,Pannur,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596373,Vijaya Raghavapuram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596374,Kothuru Venkatapuram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596381,Maharaja Puram,true
+28,Andhra Pradesh,503,Chittoor,5405,Vijayapuram,596382,Sriharipuram,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597039,Madireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597041,Majara Kothapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597043,Konapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597044,Jangalapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597045,Madhavaram,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597049,Dasarapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597050,Kasiralla,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597051,Bhoomireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597052,Kanathalacheruvu,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597053,Bodaguttapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597056,Modipalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597058,Mudduramapuram,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597059,Otiripalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597061,Otivaripalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597062,Kotalam,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597040,Budithireddipalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597046,Periyambadi,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597047,Yadamarri,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597048,Gollapalle,true
+28,Andhra Pradesh,503,Chittoor,5430,Yadamarri,597054,Kammapalle,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587540,Duppalapudi,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587541,Anaparthy,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587542,Koppavaram,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,912442,Laxmi Narasapuram,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587543,Mahendrawada,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587544,Polamuru,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587545,Ramavaram,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587546,Kutukuluru,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587547,Pedaparthi,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,587548,Pulagurtha,true
+28,Andhra Pradesh,505,East Godavari,4917,Anaparthi,912441,Pera Ramachandrapuram,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587526,Rangapuram,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587527,Illapalle,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587530,Biccavolu,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587531,Balabhadrapuram,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587536,Voolapalle,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587539,Melluru,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587528,Thummalapalle,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587529,Rallakhandrika,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587532,Kapavaram,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587533,Komaripalem,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587534,Tossipudi,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587535,Pandalapaka,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587537,Konkuduru,true
+28,Andhra Pradesh,505,East Godavari,4916,Biccavolu,587538,Arikarevula,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588282,Chikkala,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588285,Mallavaram,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588288,Unagatla,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588289,Kalavalapalle,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588291,Brahmanagudem,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588283,Chagallu,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588284,Nelaturu,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588286,Markondapadu,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588287,Nandigampadu,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588290,Singanamuppavaram,true
+28,Andhra Pradesh,505,East Godavari,4959,Chagallu,588292,Daravaram,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588253,Yadavole,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588254,Chinnayagudem,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588255,Yernagudem,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588256,Tyajampudi,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588258,Pallantlai,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588260,Devarapalle,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588261,Laxmipuram,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588257,Kurukuru,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588259,Dhumanthunigudem,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588262,Bandapuram,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588263,Duddukuru,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588264,Gowripatnam,true
+28,Andhra Pradesh,505,East Godavari,4957,Devarapalle,588265,Kondagudem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587224,Kothapalle,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587226,Thantikonda,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587227,Gadelapalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587234,Mallavaram,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,912438,Vedurupaka,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587223,Krishnunipalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587225,Gokavaram,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587228,Atchutapuram,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587229,Gummalladuddi,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587230,Rampa Yerrampalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587237,Tirumalayapalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,912437,Itikayala Palle,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,912439,Kamaraju Peta,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,912440,Gangampalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587231,Takurupalem,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587233,Sivaramapatnam,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587235,Kalijolla,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587232,Sudikonda,true
+28,Andhra Pradesh,505,East Godavari,4897,Gokavaram,587236,Bhupatipalem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588142,Vadalakunta,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588144,Vellachintalagudem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588145,Chityala,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588131,Dondapudi,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588132,Gangolu,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588133,Saggonda,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588135,Kovvurupadu,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588137,Nandigudem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588139,Jagannadhapuram,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588141,Komatigunta,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588143,Gopalapuram,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588146,Venkatayapalem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588147,Cherukumilli,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588129,Karagapadu,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588130,Sagipadu,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588134,Bhimolu,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588136,Guddigudem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588138,Karicharlagudem,true
+28,Andhra Pradesh,505,East Godavari,4951,Gopalapuram,588140,Gangavaram,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587549,Vemagiri,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587550,Kadiam,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587554,Muramanda,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587555,Dulla,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587551,Jegurupadu,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587552,Damireddipalle,true
+28,Andhra Pradesh,505,East Godavari,4918,Kadiam,587553,Veeravaram,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587699,Vakatippa,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587701,Korumilli,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587703,Thatapudi,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,912445,Addankivari Lanka,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,912446,Atchutapuram,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,912450,West Khandrika,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587690,Valluru,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587700,Machara,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587702,Kapileswarapuram,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,912447,Kedara Lanka,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587689,Nelaturu,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587692,Vadlamuru,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587694,Nalluru,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587691,Nidasanametta,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587693,Kaleru,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587695,Vedurumudi,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,912448,Nagula Cheruvu,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587696,Angara,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587697,Padamati Khandrika,true
+28,Andhra Pradesh,505,East Godavari,4928,Kapileswarapuram,587698,Teki,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587377,Kotikesavaram,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587383,Kanupuru,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587384,Gadarada,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587386,Dosakayalapalle,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587387,Burugupudi,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587390,Butchempeta,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587375,Koti,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587376,Bodleddupalem,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587378,Raghavapuram,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587379,Srirangapatnam,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587380,Korukonda,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587381,Jambupatnam,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587382,Narasapuram,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587388,Kapavaram,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587389,Munagala,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587385,Narasimhapura Agraharam,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587392,Gadala,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587391,Madhurapudi,true
+28,Andhra Pradesh,505,East Godavari,4905,Korukonda,587393,Nidigatla,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588266,Decherla,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588267,Isukapatlapangidi,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588269,Dharmavaram,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588270,Penakanametta,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588274,Nandamuru,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588275,Pasivedala,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588281,Maddurulanka,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588268,Dommeru,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588271,Chidipi,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588272,Kumaradevam,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588273,Arikirevula,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588276,Vemuluru,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588277,Thogummi,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588278,Vadapalle,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588279,Madduru,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,588280,Chigurulanka,true
+28,Andhra Pradesh,505,East Godavari,4958,Kovvur,931010,Kovvur,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587578,Palathodu,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587579,Ippanapadu,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587580,Tapeswaram,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587581,Yeditha,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587582,Arthamuru,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,930959,Mandapeta,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587571,Kesavaram,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587572,Vemulapalle @ Seetayyapalem,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587577,Velagathodu,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587583,Maredubaka (Part),true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587573,Dwarapudi,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587574,Chinadevarapudi,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587575,Z.Medapadu,true
+28,Andhra Pradesh,505,East Godavari,4920,Mandapeta,587576,Meruipadu,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588241,Ananthapalle,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588244,Gundepalle @ Chodavaram(East),true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588246,Cheepurugudem,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588248,Dubacherla,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588250,Avapadu,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588252,Telikicherla,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588240,Pothavaram,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588242,Sanjeevapuram,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588243,Veeravalli,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588245,Chodavaram (West),true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588247,Nallajerla,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588249,Marellamudi,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588251,Prakasaraopalem,true
+28,Andhra Pradesh,505,East Godavari,4956,Nallajerla,588239,Anumunilanka,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588295,Korumamidi,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588299,Ravimetla,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588300,Sankarapuram,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588309,Atlapadu,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588311,J.Khandrika,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588313,Munipalle,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588315,Jeediguntalanka,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588318,Pendyala,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588293,Ammepalle,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588294,Medipalle,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588296,Vissampalem,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588297,Tadimalla,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588298,Unakaramilli,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588301,Surapuram,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588302,Thimmarajupalem,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588303,Nidadavole (R),true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588304,Gopavaram,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588305,Vijjeswaram,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588306,Purushothapalle,true
+28,Andhra Pradesh,505,East Godavari,4960,Nidadavole,588307,Pandalaparru,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588527,Nadupalle,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588528,Kanuru,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588529,Kanuruagraharam,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588530,Usulumarru,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588531,Teeparru,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588533,Ajjaram,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588535,Kapavaram,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588537,Mukkamala,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588539,Malleswaram,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588540,Pittalavemavaram,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588532,Kakaraparru,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588534,Peravali,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588536,Kothapalle Agraharam,true
+28,Andhra Pradesh,505,East Godavari,4971,Peravali,588538,Khandavalli,true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587395,Kolamuru,true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587397,Katheru (Ct),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587400,Dowleswaram (Ct),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587394,Torredu,true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587396,Rajavolu,true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587398,Morampudi (Ct),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587399,Hukumpeta (Ct),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587401,Bommuru (Og),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,587402,Rajahmundry Nma (Og),true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,912434,Satelite City,true
+28,Andhra Pradesh,505,East Godavari,4907,Rajamahendravaram Rural,912435,Pidimgoyyi,true
+28,Andhra Pradesh,505,East Godavari,4906,Rajamahendravaram Urban,930965,Rajajmundry Urban,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587404,Kalavacherla,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587410,Kanavaram,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587412,Palacharla,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587413,Bhupalapatnam,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587416,G. Yerrampalem,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587418,Thokada,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587403,Nandarada,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587405,Rajanagaram,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587411,Srikrishnapatnam,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587415,Konda Gunturu,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587417,Patha Thungapadu,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587419,Mukkinada,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587406,Narendrapuram,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587408,Venkatapuram,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587407,Velugubanda,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587409,Jagannadhapuram Agraharam,true
+28,Andhra Pradesh,505,East Godavari,4908,Rajanagaram,587414,Namavaram,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587427,Mukundavaram,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587430,G. Donthamuru,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587433,Singampalle,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587420,South Thirupathi Rajapuram,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587421,Vadisaleru,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587422,Rangampeta,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587426,Subhadrampeta,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587423,Pedarayavaram,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587424,Kotapadu,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587425,Venkatapuram,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587428,Elakolanu,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587429,Veerampalem,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587431,Doddigunta,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587432,Marripudi,true
+28,Andhra Pradesh,505,East Godavari,4909,Rangampeta,587434,Nallamilli,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587592,Kurmapuram,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587593,Kurakallapalle,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587584,Lolla,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587585,Vedurupaka,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587588,Someswaram,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587589,Machavaram,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587590,Chelluru,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587591,Venturu,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587586,Nadurubada,true
+28,Andhra Pradesh,505,East Godavari,4921,Rayavaram,587587,Pasalapudi,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587209,Seethanagaram,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587211,Nagampalle,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587213,Raghudevapuram,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587214,Muggaulla,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587215,Kunavaram,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587218,Jalimudi,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587219,Bobbillanka,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587220,Mulakallanka,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587221,Mirthipadu,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587222,Hundeswarapuram,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587206,Purushothapatnam,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587207,Vangalapudi,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587208,Singavaram,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587210,Chinakondepudi,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587212,Nallagonda,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587216,Munikudali,true
+28,Andhra Pradesh,505,East Godavari,4896,Seethanagaram,587217,Katavaram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588111,Thadipudi,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588112,Ragolapalle,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588113,Thupakulagudem,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588114,Pochavaram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588119,Veerabhadrapuram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588121,Thallapudi,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588122,Vegeswarapuram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588123,Ballipadu,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588125,Tirugudumetta,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588110,Bayyavaram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588115,Paidimetta,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588116,Prakkilanka,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588117,Gajjaram,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588118,Annadevarapeta,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588120,Kukunuru,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588124,Peddevam,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588126,Nallamillipadu,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588127,Malakapalle,true
+28,Andhra Pradesh,505,East Godavari,4950,Tallapudi,588128,Ravurupadu,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588512,Kaldhari,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588515,Mortha,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588521,Chivatam,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588524,Undrajavaram,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588513,Velivennu,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588514,Dammennu,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588516,Chilakapadu,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588517,Pasalapudi,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588518,Suryaraopalem,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588519,Vadluru,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588520,Satyawada,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588522,Karravarisavaram,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588523,Palangi,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588525,Velagadurru,true
+28,Andhra Pradesh,505,East Godavari,4970,Undrajavaram,588526,Tadiparru,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369165,Murubanda,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369168,Chhotki Lari,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369174,Koihara,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369177,Gaurabera,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369178,Bhuchungdih,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369184,Sewai (Ct),true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369173,Kumhradhara,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369176,Janiamara,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369170,Janhe,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369171,Dudgi,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369179,Hutugdag,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369183,Marang Marcha,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369166,Sukrigarha,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369167,Larikalan,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369175,Lerhitungri,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369180,Sandi,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369181,Tebardag,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369182,Sondh,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369163,Borobing,true
+20,Jharkhand,607,Ramgarh,2664,Chitarpur,369164,Chhotkipona,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369137,Ukrid,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369126,Dantu,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369128,Lawalong,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369130,Jario,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369131,Bahatu,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369133,Chaha,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369144,Bongai,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369145,Pancha,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369148,Idpara,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369149,Dulmi,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369151,Siru,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369154,Hohad,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369157,Bhalu,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369158,Patamdaga,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369160,Kulhi,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369162,Karo,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369125,Kitma,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369124,Ichatu,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369129,Usra,true
+20,Jharkhand,607,Ramgarh,2663,Dulmi,369132,Jamira,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369189,Rakua,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369190,Korambe,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369192,Murpa,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369193,Murmuta,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369194,Banda,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369204,Kenke,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369207,Heramdaga,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369210,Dabhatu,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369212,Kamta,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369214,Kamti,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369215,Raipura,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369221,Rundai,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369228,Homasita,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369232,Hesal,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369233,Ghaghra,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369236,Kumhardaga,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369237,Hematpur,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369238,Tirla,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369245,Chokad,true
+20,Jharkhand,607,Ramgarh,2665,Gola,369249,Rola,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369020,Chapra,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369016,Semra,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369018,Gobindpur,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369019,Ambadih,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369023,Kimo,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369024,Choy,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369025,Banda,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369026,Udlu,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369029,Edla,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369030,Harli,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369031,Basantpur,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369033,Pachanda,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369034,Durukasmar,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369035,Barisam,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369036,Rauta,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369039,Kekobasaudi,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369040,Pundi,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369043,Bongahara,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369050,Datma,true
+20,Jharkhand,607,Ramgarh,2661,Mandu,369052,Bumri,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,945501,Matkama,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368996,Jobo,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368940,Tokisud,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368942,Terpa,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368946,Kurbij,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368948,Batuka,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368959,Rasda,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368961,Labga,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368962,Netua,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368964,Melani,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368966,Hariharpur,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368967,Lem,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368968,Bicha,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368971,Salgo,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368978,Kurse,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368979,Ghaghra,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368990,Sudi,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368991,Pali,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368945,Ukrid,true
+20,Jharkhand,607,Ramgarh,2660,Patratu,368977,Koto Khurd,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369114,Barlong,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369118,Saraiya,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369119,Kundru Khurd,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369101,Kaitha,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369102,Gobardarha,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369104,Kothar,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369105,Chetar,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369108,Bankheta,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369109,Kankebar,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369110,Burha Khukra,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369112,Dohakatu,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369120,Hesla,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369103,Huhuwa,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369106,Gosa,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369107,Muramkala,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369113,Lolo,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369122,Marar,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369111,Gandke,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369117,Kundrukala,true
+20,Jharkhand,607,Ramgarh,2662,Ramgarh,369116,Lodhma,true

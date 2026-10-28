@@ -1,0 +1,191 @@
+# ==============================================================================
+# Agricultural Intelligence Platform — Base Application Configuration
+#
+# Environment variables (injected at runtime / from .env):
+#   SUPABASE_JWT_ISSUER      - Supabase project auth issuer URL
+#   SUPABASE_JWT_JWKS_URI    - Supabase project JWKS endpoint
+#   CORS_ALLOWED_ORIGINS     - Comma-separated list of allowed CORS origins
+#
+#   SUPABASE_DB_URL          - Supabase PostgreSQL JDBC connection string
+#                              Format (Transaction Mode / Pooler):
+#                              jdbc:postgresql://<host>:<port>/postgres
+#   SUPABASE_DB_USERNAME     - Database username (e.g. postgres.yourproject)
+#   SUPABASE_DB_PASSWORD     - Database password
+#
+# Do NOT commit real secret values. Use .env (gitignored).
+# Spring Boot does NOT read .env automatically — load via IDE env plugin,
+# shell export, or a wrapper script before starting the application.
+# ==============================================================================
+
+spring:
+  application:
+    name: agri-platform-backend
+
+  # ----------------------------------------------------------------------------
+  # DataSource — Supabase PostgreSQL via environment variables.
+  #
+  # SECURITY BOUNDARY:
+  #   - Database credentials are server-side only.
+  #   - Flutter never receives these credentials.
+  #   - Flutter communicates only with Spring Boot REST APIs.
+  #
+  # CONNECTION ROLE NOTE:
+  #   If the backend connects using the postgres (superuser) role, RLS policies
+  #   in Supabase are NOT automatically enforced. Application-level
+  #   authorization in Spring Boot services remains the primary guard.
+  #   Prefer the 'authenticator' or a restricted role in production.
+  # ----------------------------------------------------------------------------
+  datasource:
+    url: ${SUPABASE_DB_URL}
+    username: ${SUPABASE_DB_USERNAME}
+    password: ${SUPABASE_DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+
+    # HikariCP connection pool
+    # Using Spring Boot defaults where sensible; only configure what matters
+    # for an Alpha V1 workload connecting to Supabase Transaction Mode Pooler.
+    hikari:
+      # Maximum connections in the pool.
+      # Supabase free tier Pooler allows limited concurrent connections.
+      maximum-pool-size: 5
+      # Minimum idle connections kept open.
+      minimum-idle: 2
+      # Max ms to wait for a connection from the pool before throwing.
+      connection-timeout: 30000
+      # Max ms a connection can sit idle before being removed.
+      idle-timeout: 600000
+      # Max connection lifetime (ms). Rotate before Supabase times out.
+      max-lifetime: 1800000
+      # Simple liveness probe query executed on connection borrow.
+      connection-test-query: SELECT 1
+      # Pool name visible in logs and JMX.
+      pool-name: AgriPlatformHikariPool
+
+  # ----------------------------------------------------------------------------
+  # JPA / Hibernate
+  #
+  # CRITICAL: ddl-auto must NEVER be create / create-drop / update.
+  # The Supabase PostgreSQL schema is FROZEN (existing, verified database).
+  # Hibernate must not emit any CREATE/ALTER/DROP DDL.
+  #
+  # Base default: none  — no schema interaction at all.
+  # Dev profile:  validate — Hibernate verifies entities match the schema.
+  # Prod profile: none  — safest for production; no schema interaction.
+  # ----------------------------------------------------------------------------
+  jpa:
+    open-in-view: false
+    show-sql: false
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        # Disable format_sql at base; dev profile may enable it.
+        format_sql: false
+        # Supabase PostgreSQL — let Hibernate auto-detect the dialect
+        # from the JDBC metadata. Explicit dialect is NOT set here because
+        # Hibernate 6 (Spring Boot 3.x) detects PostgreSQLDialect automatically.
+        # Setting an explicit dialect is only needed to override detection.
+
+  # ----------------------------------------------------------------------------
+  # Spring Security — OAuth2 Resource Server (Supabase JWT)
+  #
+  # Spring Security uses the JWKS URI to fetch Supabase's public signing keys
+  # and validates: JWT signature, expiration (exp), issuer (iss), audience (aud).
+  #
+  # Required environment variables:
+  #   SUPABASE_JWT_ISSUER    e.g. https://xxxxxxxxxxx.supabase.co/auth/v1
+  #   SUPABASE_JWT_JWKS_URI  e.g. https://xxxxxxxxxxx.supabase.co/auth/v1/.well-known/jwks.json
+  #
+  # NOTE: Keep Supabase Auth (JWT) and PostgreSQL (JDBC) credentials separate.
+  # The Supabase anon key / service-role key is NOT used for JDBC connections.
+  # ----------------------------------------------------------------------------
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: ${SUPABASE_JWT_ISSUER:https://api.harvesta.in/auth}
+          jwk-set-uri: ${SUPABASE_JWT_JWKS_URI:}
+
+# ----------------------------------------------------------------------------
+# Actuator
+# Only health is exposed by default. Extend in production with care.
+# ----------------------------------------------------------------------------
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: never
+
+# ----------------------------------------------------------------------------
+# CORS — configured per-profile; base value is restrictive.
+# Override CORS_ALLOWED_ORIGINS in the dev profile or via environment.
+# ----------------------------------------------------------------------------
+app:
+  security:
+    jwt:
+      secret: ${SUPABASE_JWT_SECRET:harvest-a-agri-platform-jwt-secret-key-must-be-at-least-256-bits-long-2026}
+    cors:
+      allowed-origins: ${CORS_ALLOWED_ORIGINS:}
+
+  # ----------------------------------------------------------------------------
+  # Agri_Library Private Storage Integration
+  #
+  # CREDENTIAL SECURITY:
+  #   Retrieves approved state geography source datasets from the private
+  #   geography-source-library bucket using server-side service-role key.
+  #   Credentials and private URLs are NEVER exposed to clients/frontend.
+  # ----------------------------------------------------------------------------
+  library:
+    storage:
+      base-url: ${SUPABASE_URL:}
+      service-role-key: ${SUPABASE_SERVICE_ROLE_KEY:}
+      bucket-name: geography-source-library
+      connect-timeout-ms: 15000
+      read-timeout-ms: 60000
+      max-file-size-bytes: 15728640
+
+  # ----------------------------------------------------------------------------
+  # LGD/NAPIX API Integration
+  #
+  # CREDENTIAL SECURITY:
+  #   client-id and client-secret MUST be supplied via environment variables.
+  #   LGD_CLIENT_ID and LGD_CLIENT_SECRET
+  #   NEVER set real values here. Use .env (gitignored) or deployment secrets.
+  #   Credentials are never logged and never returned via any API endpoint.
+  #
+  # LGD CODE POLICY:
+  #   LGD integer codes (stateCode, districtCode, subdistrictCode, villageCode)
+  #   are stored as strings in the existing `code` column of each geography table.
+  #   This is the authoritative sync identity — names alone are not used as keys
+  #   because geography names can change (e.g., district renames).
+  #
+  # RATE LIMIT NOTE:
+  #   The official LGD/NAPIX specification does NOT establish a definitive rate limit.
+  #   A conservative 500ms request delay is applied. Adjust via request-delay-ms.
+  #
+  # BASE URL:
+  #   Confirmed from all 142 official LGD OpenAPI specification files.
+  # ----------------------------------------------------------------------------
+  lgd:
+    base-url: https://delhigw.napix.gov.in/nic/lgd
+    client-id: ${LGD_CLIENT_ID:}
+    client-secret: ${LGD_CLIENT_SECRET:}
+
+    # Scheduler — DISABLED by default. Enable only in production with credentials.
+    scheduler-enabled: false
+    sync-cron: "0 0 2 * * SUN"   # Every Sunday at 02:00 (weekly)
+
+    # HTTP timeouts
+    connect-timeout-ms: 15000
+    read-timeout-ms: 60000
+
+    # Retry — transient failures (5xx, connection errors) only
+    max-retries: 3
+    retry-backoff-ms: 1000
+
+    # Rate limiting — conservative default; official limit NOT established by spec
+    request-delay-ms: 500
+

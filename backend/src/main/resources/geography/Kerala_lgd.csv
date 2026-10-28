@@ -1,0 +1,1667 @@
+state_code,state_name,district_code,district_name,mandal_code,mandal_name,village_code,village_name,is_active
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,913812,Alappuzha West,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628229,Ambalappuzha,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,916074,Ambalappuzha North,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628227,Aryad South (Part),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628226,Kalavoor,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628230,Karumady,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628234,Komalapuram (Ct),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628232,Mannanchery (Ct),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628228,Mullakkal (Part),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,913811,Paravoor,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628233,Pathirappally (Ct),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,913813,Pazhaveedu,true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628235,Punnapra (Og),true
+32,Kerala,554,Alappuzha,5674,Ambalappuzha,628231,Purakkad,true
+32,Kerala,554,Alappuzha,5677,Chengannur,628272,Ala (Part),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628270,Chengannur (Part),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628274,Cheriyanad,true
+32,Kerala,554,Alappuzha,5677,Chengannur,628267,Ennakkad,true
+32,Kerala,554,Alappuzha,5677,Chengannur,628277,Kurattissery (Ct),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628276,Mannar (Ct),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628271,Mulakuzha (Part),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628268,Pandanad (Part),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628273,Puliyoor(Part),true
+32,Kerala,554,Alappuzha,5677,Chengannur,628269,Thiruvanvandoor,true
+32,Kerala,554,Alappuzha,5677,Chengannur,628275,Venmony,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628214,Arookutty (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628215,Aroor (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,916075,Arthunkal,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628211,Cherthala North (Part),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628212,Cherthala South (Part),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628216,Ezhupunna (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628210,Kadakkarappally,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628224,Kanjikkuzhi (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628217,Kodamthuruth (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628223,Kokkothamangalam (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628219,Kuthiathode (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628213,Mararikkulam North,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628221,Pallippuram (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628207,Panavally,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628209,Pattanakkad,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628206,Perumbalam,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628218,Thaikattussery (Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,628222,Thanneermukkam North(Ct),true
+32,Kerala,554,Alappuzha,5673,Cherthala,913810,Thanneermukkam South,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628208,Thuravoor Thekku,true
+32,Kerala,554,Alappuzha,5673,Cherthala,628220,Vayalar (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628255,Arattupuzha,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628260,Cheppad (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628251,Cheruthana,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628259,Chingoli (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628256,Haripad (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628264,Kandalloor (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628258,Karthikappally (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628250,Karuvatta,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,913815,Kayamkulam,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628262,Keerikkad (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628266,Krishnapuram (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628257,Kumarapuram (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628263,Muthukulam (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628253,Pallippad,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628261,Pathiyoor (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628265,Puthuppally (Ct),true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628254,Thrikkunnapuzha,true
+32,Kerala,554,Alappuzha,5676,Karthikappally,628252,Veeyapuram,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628244,Champakkulam,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628247,Edathua,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628236,Kainakary North,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628237,Kainakary South,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628240,Kavalam,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628239,Kunnumma,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628248,Muttar,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628245,Nedumudi,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628241,Neelamperoor,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628238,Pulinkunnu,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628243,Ramankary,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628246,Thakazhy,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628249,Thalavady,true
+32,Kerala,554,Alappuzha,5675,Kuttanad,628242,Veliyanad,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628290,Bharanikkavu (Ct),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628288,Chennithala (Ct),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628282,Chunakkara,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628287,Kannamangalam (Ct),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628291,Kattanam (Ct),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,913814,Mavelikkara,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628283,Noornad,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628284,Palamel,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628281,Perungala,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628285,Thamarakkulam,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628289,Thazhakara (Ct),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628280,Thekkekara (Part),true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628278,Thriperumthura,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628286,Vallikunnam,true
+32,Kerala,554,Alappuzha,5678,Mavelikkara,628279,Vettiyar,true
+32,Kerala,555,Ernakulam,5658,Aluva,913804,Aluva East,true
+32,Kerala,555,Ernakulam,5658,Aluva,913803,Aluva West,true
+32,Kerala,555,Ernakulam,5658,Aluva,913805,Angamaly,true
+32,Kerala,555,Ernakulam,5658,Aluva,627967,Ayyampuzha,true
+32,Kerala,555,Ernakulam,5658,Aluva,627976,Chengamanad (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627980,Choornikkara (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627974,Chowwara (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627971,Kalady (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627965,Karukutty,true
+32,Kerala,555,Ernakulam,5658,Aluva,916087,Keezhmad,true
+32,Kerala,555,Ernakulam,5658,Aluva,627977,Kizhakkumbhagom (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627969,Malayattoor,true
+32,Kerala,555,Ernakulam,5658,Aluva,627968,Manjapra,true
+32,Kerala,555,Ernakulam,5658,Aluva,627972,Mattoor (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627966,Mookkannoor,true
+32,Kerala,555,Ernakulam,5658,Aluva,627975,Nedumbassery (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627964,Parakkadavu,true
+32,Kerala,555,Ernakulam,5658,Aluva,627978,Thekkumbhagom (Ct),true
+32,Kerala,555,Ernakulam,5658,Aluva,627970,Thuravoor,true
+32,Kerala,555,Ernakulam,5658,Aluva,627973,Vadakkumbhagom (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628019,Amballur (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628009,Cheranallur (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628003,Edakkattuvayal,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913794,Edappally North,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913795,Edappally South,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913792,Elamkulam,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913791,Ernakulam,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628010,Kadamakkudy (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628004,Kaippattur,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628007,Kakkanad (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628013,Kanayannur (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628006,Keecherry,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628005,Kulayettikara,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628016,Kumbalam (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628014,Kureekkad (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628017,Manakunnam (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628015,Maradu (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628018,Mulamthuruthy (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628011,Mulavukad (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913796,Nadama,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913793,Poonithura,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,913797,Thekkumbhagam,true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628012,Thiruvankulam (Ct),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628002,Thrikkakara North (Part),true
+32,Kerala,555,Ernakulam,5661,Kanayannur,628008,Vazhakkala (Ct),true
+32,Kerala,555,Ernakulam,5660,Kochi,627997,Chellanam,true
+32,Kerala,555,Ernakulam,5660,Kochi,913790,Edakochi,true
+32,Kerala,555,Ernakulam,5660,Kochi,627995,Edavanakkad,true
+32,Kerala,555,Ernakulam,5660,Kochi,627999,Elamkunnapuzha (Ct),true
+32,Kerala,555,Ernakulam,5660,Kochi,913784,Fort Kochi,true
+32,Kerala,555,Ernakulam,5660,Kochi,628001,Kumbalangy (Ct),true
+32,Kerala,555,Ernakulam,5660,Kochi,627993,Kuzhuppilly,true
+32,Kerala,555,Ernakulam,5660,Kochi,913785,Mattancherry,true
+32,Kerala,555,Ernakulam,5660,Kochi,627996,Nayarambalam,true
+32,Kerala,555,Ernakulam,5660,Kochi,627998,Njarackal (Ct),true
+32,Kerala,555,Ernakulam,5660,Kochi,627994,Pallippuram,true
+32,Kerala,555,Ernakulam,5660,Kochi,913787,Palluruthy,true
+32,Kerala,555,Ernakulam,5660,Kochi,628000,Puthuvype (Ct),true
+32,Kerala,555,Ernakulam,5660,Kochi,913786,Rameswaram,true
+32,Kerala,555,Ernakulam,5660,Kochi,913789,Thoppumpady,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628048,Eramalloor (Ct),true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628045,Kedavoor,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628042,Keerampara,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,645601,Kothamangalam (Og) (Part),true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628039,Kottappady,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628043,Kuttamangalam,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628041,Kuttampuzha,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628044,Neriamangalam,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,916085,Pallarimangalam,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628040,Pindimana,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628046,Pothanikkad,true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628038,Thrikkariyoor (Part),true
+32,Kerala,555,Ernakulam,5663,Kothamangalam,628047,Varappetty,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627953,Aikaranad North,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627954,Aikaranad South,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627947,Arakapady,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627945,Asamannoor,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627957,Chelamattom (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627948,Irapuram,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627951,Kizhakkambalam,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627941,Kodanad,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627942,Kombanad,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627956,Koovappady (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627962,Kunnathunad (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627958,Marampilly(Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627949,Mazhuvannoor,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627950,Pattimattom,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627961,Perumbavoor (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627963,Puthencruz (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627946,Rayamangalam,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627955,Thiruvaniyoor,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627952,Vadavukode,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627959,Vazhakulam (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627960,Vengola (Ct),true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627943,Vengoor,true
+32,Kerala,555,Ernakulam,5657,Kunnathunad,627944,Vengoor West,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628026,Arakuzha,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628036,Elanji,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628022,Enanalloor,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628023,Kalloorkkad,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628035,Koothattukulam,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628030,Maneed,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628024,Manjalloor,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628027,Marady (Part),true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628028,Memury,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628021,Mulavoor,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628025,Muvattupuzha (Part),true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628032,Onakkoor,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628034,Palakkuzha,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628031,Piravom,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628029,Ramamangalam,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628033,Thirumarady,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628020,Valakam,true
+32,Kerala,555,Ernakulam,5662,Muvattupuzha,628037,Velloorkunnam (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627989,Alangad (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627984,Chendamangalam (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627992,Eloor (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627982,Ezhikkara,true
+32,Kerala,555,Ernakulam,5659,Paravur,627988,Kadungalloor (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627987,Karumalloor (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627990,Kottuvally (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627981,Kunnukara,true
+32,Kerala,555,Ernakulam,5659,Paravur,627985,Moothakunnam (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,913783,North Paravur,true
+32,Kerala,555,Ernakulam,5659,Paravur,627983,Puthenvelikkara (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627986,Vadakkekara (Ct),true
+32,Kerala,555,Ernakulam,5659,Paravur,627991,Varappuzha (Ct),true
+32,Kerala,556,Idukki,5664,Devikulam,628057,Anaviratty,true
+32,Kerala,556,Idukki,5664,Devikulam,931673,Edamalakkudy,true
+32,Kerala,556,Idukki,5664,Devikulam,628054,Kannan Devan Hills,true
+32,Kerala,556,Idukki,5664,Devikulam,628051,Kanthalloor,true
+32,Kerala,556,Idukki,5664,Devikulam,628050,Keezhanthoor,true
+32,Kerala,556,Idukki,5664,Devikulam,628052,Kottakamboor,true
+32,Kerala,556,Idukki,5664,Devikulam,628059,Kunjithanny,true
+32,Kerala,556,Idukki,5664,Devikulam,628055,Mankulam,true
+32,Kerala,556,Idukki,5664,Devikulam,628056,Mannamkandam,true
+32,Kerala,556,Idukki,5664,Devikulam,628049,Marayoor,true
+32,Kerala,556,Idukki,5664,Devikulam,931674,Munnar,true
+32,Kerala,556,Idukki,5664,Devikulam,628058,Pallivasal,true
+32,Kerala,556,Idukki,5664,Devikulam,628053,Vattavada,true
+32,Kerala,556,Idukki,5664,Devikulam,628060,Vellathuval,true
+32,Kerala,556,Idukki,5942,Idukki,628080,Ayyappancoil,true
+32,Kerala,556,Idukki,5942,Idukki,628099,Idukki,true
+32,Kerala,556,Idukki,5942,Idukki,916080,Kanchiyar,true
+32,Kerala,556,Idukki,5942,Idukki,628087,Kanjikuzhi,true
+32,Kerala,556,Idukki,5942,Idukki,628079,Kattappana,true
+32,Kerala,556,Idukki,5942,Idukki,628061,Konnathady,true
+32,Kerala,556,Idukki,5942,Idukki,628073,Thankamony,true
+32,Kerala,556,Idukki,5942,Idukki,628072,Upputhode,true
+32,Kerala,556,Idukki,5942,Idukki,628071,Vathikudy,true
+32,Kerala,556,Idukki,5667,Peerumade,628105,Elappara,true
+32,Kerala,556,Idukki,5667,Peerumade,628106,Kokkayar,true
+32,Kerala,556,Idukki,5667,Peerumade,628110,Kumily,true
+32,Kerala,556,Idukki,5667,Peerumade,628108,Manjumala,true
+32,Kerala,556,Idukki,5667,Peerumade,628111,Mlappara,true
+32,Kerala,556,Idukki,5667,Peerumade,628107,Peerumade,true
+32,Kerala,556,Idukki,5667,Peerumade,628109,Periyar,true
+32,Kerala,556,Idukki,5667,Peerumade,628112,Peruvanthanam,true
+32,Kerala,556,Idukki,5667,Peerumade,628104,Upputhara,true
+32,Kerala,556,Idukki,5667,Peerumade,628103,Vagamon,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628097,Alacode,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628100,Arakkulam,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628102,Elappally,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628091,Karikkode (Part),true
+32,Kerala,556,Idukki,5666,Thodupuzha,628090,Karimannoor,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628095,Karimkunnam (Part),true
+32,Kerala,556,Idukki,5666,Thodupuzha,628085,Kodikulam,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628101,Kudayathoor,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628084,Kumaramangalam (Part),true
+32,Kerala,556,Idukki,5666,Thodupuzha,628093,Manakkad (Part),true
+32,Kerala,556,Idukki,5666,Thodupuzha,628096,Muttom,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628089,Neyyasseri,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628094,Purapuzha,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628092,Thodupuzha (Part),true
+32,Kerala,556,Idukki,5666,Thodupuzha,628088,Udumbannoor,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628086,Vannapuram,true
+32,Kerala,556,Idukki,5666,Thodupuzha,628098,Velliyamattom,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628083,Anakkara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628081,Anavilasam,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628063,Baisonvally,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628082,Chakkupallam,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628069,Chathurangapara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628064,Chinnakanal,true
+32,Kerala,556,Idukki,5665,Udumbanchola,916081,Erattayar,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628074,Kalkoonthal,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628067,Kanthippara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628077,Karunapuram,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628076,Pampadumpara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628075,Parathodu,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628065,Poopara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628062,Rajakkad,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628066,Rajakumari,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628068,Santhanpara,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628070,Udumbanchola,true
+32,Kerala,556,Idukki,5665,Udumbanchola,628078,Vandanmedu,true
+32,Kerala,557,Kannur,5937,Iritty,627256,Aralam,true
+32,Kerala,557,Kannur,5937,Iritty,627255,Ayyankunnu,true
+32,Kerala,557,Kannur,5937,Iritty,627251,Chavassery,true
+32,Kerala,557,Kannur,5937,Iritty,627204,Kalliad,true
+32,Kerala,557,Kannur,5937,Iritty,627259,Kanichar,true
+32,Kerala,557,Kannur,5937,Iritty,942948,Karikkottakkari,true
+32,Kerala,557,Kannur,5937,Iritty,627252,Keezhur,true
+32,Kerala,557,Kannur,5937,Iritty,627258,Kelakam,true
+32,Kerala,557,Kannur,5937,Iritty,913285,Kolari,true
+32,Kerala,557,Kannur,5937,Iritty,627257,Kottiyoor,true
+32,Kerala,557,Kannur,5937,Iritty,627260,Manathana,true
+32,Kerala,557,Kannur,5937,Iritty,627261,Muzhakkunnu,true
+32,Kerala,557,Kannur,5937,Iritty,627201,Nuchiyad,true
+32,Kerala,557,Kannur,5937,Iritty,627203,Padiyoor,true
+32,Kerala,557,Kannur,5937,Iritty,627253,Payam,true
+32,Kerala,557,Kannur,5937,Iritty,913286,Pazhassi,true
+32,Kerala,557,Kannur,5937,Iritty,627262,Thillenkeri,true
+32,Kerala,557,Kannur,5937,Iritty,627202,Vayathur,true
+32,Kerala,557,Kannur,5937,Iritty,627264,Vellarvelly,true
+32,Kerala,557,Kannur,5937,Iritty,627254,Vilamana,true
+32,Kerala,557,Kannur,5633,Kannur,627242,Ancharakandy (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627230,Azhikode North (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627231,Azhikode South (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627241,Chelora (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,910357,Chembilode - Ct,true
+32,Kerala,557,Kannur,5633,Kannur,627225,Cherukunnu (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627233,Chirakkal (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,910359,Edakkad - Ct,true
+32,Kerala,557,Kannur,5633,Kannur,627240,Elayavoor (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627243,Iriveri (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,910350,Kadambur - Ct,true
+32,Kerala,557,Kannur,5633,Kannur,627229,Kalliasseri (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627236,Kanhirode (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627234,Kannadiparamba (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627226,Kannapuram (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,913028,Kannur I,true
+32,Kerala,557,Kannur,5633,Kannur,913029,Kannur II,true
+32,Kerala,557,Kannur,5633,Kannur,910353,Makreri - Ct,true
+32,Kerala,557,Kannur,5633,Kannur,627219,Mattool,true
+32,Kerala,557,Kannur,5633,Kannur,627247,Mavilayi (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627235,Munderi (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627249,Muzhappilangad (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627227,Narath (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627239,Pallikkunnu (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627228,Pappinisseri (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627238,Puzhathi (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,627232,Valapattanam (Ct),true
+32,Kerala,557,Kannur,5633,Kannur,910355,Valiyannur - Ct,true
+32,Kerala,557,Kannur,6599,Payyannur,627180,Alapadamba,true
+32,Kerala,557,Kannur,6599,Payyannur,627221,Cheruthazham (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,627181,Eramam,true
+32,Kerala,557,Kannur,6599,Payyannur,627223,Ezhome (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,627222,Kadannappalli (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,627179,Kankole,true
+32,Kerala,557,Kannur,6599,Payyannur,627209,Karivellur (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,913288,Korom,true
+32,Kerala,557,Kannur,6599,Payyannur,627220,Kunhimangalam (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,627183,Kuttoor,true
+32,Kerala,557,Kannur,6599,Payyannur,627224,Madayi (Ct),true
+32,Kerala,557,Kannur,6599,Payyannur,627218,Panapuzha,true
+32,Kerala,557,Kannur,6599,Payyannur,913033,Payyannur,true
+32,Kerala,557,Kannur,6599,Payyannur,627178,Peralam,true
+32,Kerala,557,Kannur,6599,Payyannur,627185,Peringome,true
+32,Kerala,557,Kannur,6599,Payyannur,627182,Perinthatta,true
+32,Kerala,557,Kannur,6599,Payyannur,627188,Pulingome,true
+32,Kerala,557,Kannur,6599,Payyannur,627177,Ramanthali,true
+32,Kerala,557,Kannur,6599,Payyannur,627189,Thirumeni,true
+32,Kerala,557,Kannur,6599,Payyannur,627187,Vayakkara,true
+32,Kerala,557,Kannur,6599,Payyannur,627184,Vellora,true
+32,Kerala,557,Kannur,6599,Payyannur,913287,Vellur,true
+32,Kerala,557,Kannur,5632,Taliparamba,627190,Alakode,true
+32,Kerala,557,Kannur,5632,Taliparamba,913290,Andoor,true
+32,Kerala,557,Kannur,5632,Taliparamba,627216,Cheleri (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627207,Chengalai,true
+32,Kerala,557,Kannur,5632,Taliparamba,627197,Chuzhali,true
+32,Kerala,557,Kannur,5632,Taliparamba,627199,Eruvassy,true
+32,Kerala,557,Kannur,5632,Taliparamba,627212,Irikkur (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627208,Kayaralam,true
+32,Kerala,557,Kannur,5632,Taliparamba,627215,Kolacherry (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627193,Kooveri,true
+32,Kerala,557,Kannur,5632,Taliparamba,627211,Kurumathur (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627213,Kuttiattoor (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627195,Kuttiyeri,true
+32,Kerala,557,Kannur,5632,Taliparamba,627206,Malapattam,true
+32,Kerala,557,Kannur,5632,Taliparamba,627217,Maniyoor (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627214,Mayyil (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,913289,Morazha,true
+32,Kerala,557,Kannur,5632,Taliparamba,627198,Nediyanga,true
+32,Kerala,557,Kannur,5632,Taliparamba,627192,New Naduvil,true
+32,Kerala,557,Kannur,5632,Taliparamba,627194,Panniyoor,true
+32,Kerala,557,Kannur,5632,Taliparamba,627210,Pariyaram (Ct),true
+32,Kerala,557,Kannur,5632,Taliparamba,627196,Pattuvam,true
+32,Kerala,557,Kannur,5632,Taliparamba,627200,Payyavoor,true
+32,Kerala,557,Kannur,5632,Taliparamba,627205,Sreekandapuram,true
+32,Kerala,557,Kannur,5632,Taliparamba,913034,Taliparamba,true
+32,Kerala,557,Kannur,5632,Taliparamba,627186,Thimiri,true
+32,Kerala,557,Kannur,5632,Taliparamba,916089,Udayagiri,true
+32,Kerala,557,Kannur,5632,Taliparamba,627191,Vellad,true
+32,Kerala,557,Kannur,5634,Thalassery,627269,Cheruvanchery,true
+32,Kerala,557,Kannur,5634,Thalassery,627291,Chockli (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627282,Dharmadom (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627283,Eranholi (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627280,Eruvatti (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627284,Kadirur (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627277,Kandamkunnu (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627267,Kannavam,true
+32,Kerala,557,Kannur,5634,Thalassery,627273,Keezhallur (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,910496,Kodiyeri - Ct,true
+32,Kerala,557,Kannur,5634,Thalassery,627287,Kolavelloor (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627266,Koloyad,true
+32,Kerala,557,Kannur,5634,Thalassery,627272,Koodali (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627279,Kottayam,true
+32,Kerala,557,Kannur,5634,Thalassery,913030,Kuthuparamba,true
+32,Kerala,557,Kannur,5634,Thalassery,627278,Manantheri (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627276,Mangattidam (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627286,Mokeri (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627290,New Mahe (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627274,Paduvilayi (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627289,Panniyannur (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627288,Panoor (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627275,Pathiriyad (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627250,Pattannur,true
+32,Kerala,557,Kannur,5634,Thalassery,627285,Pattiom (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,916090,Peringalam,true
+32,Kerala,557,Kannur,5634,Thalassery,627292,Peringathur (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627281,Pinarayi (Ct),true
+32,Kerala,557,Kannur,5634,Thalassery,627270,Puthoor,true
+32,Kerala,557,Kannur,5634,Thalassery,627268,Sivapuram,true
+32,Kerala,557,Kannur,5634,Thalassery,913032,Thalassery,true
+32,Kerala,557,Kannur,5634,Thalassery,913031,Thiruvangad,true
+32,Kerala,557,Kannur,5634,Thalassery,627263,Tholambra,true
+32,Kerala,557,Kannur,5634,Thalassery,627271,Thrippangottur,true
+32,Kerala,557,Kannur,5634,Thalassery,627265,Vekkalam,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627169,Ajanur (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627153,Ambalathara,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,913019,Balla,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627165,Bare (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627158,Cheemeni,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627176,Cheruvathur (Og),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627138,Chithari,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,913020,Hosdurg,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,913021,Kanhangad,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627159,Kayyur,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627168,Keekan (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627160,Kilayikode,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627162,Kodakkad,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627154,Madikai,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627172,Maniyat (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627175,Nileshwar (Og),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627173,North Thrikkaripur (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627163,Padne,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627167,Pallikkara (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627136,Pallikkara II,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627137,Panayal,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627139,Periya,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627170,Perole (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627171,Pilicode (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,913023,Pudukai,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627140,Pullur,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627174,South Thrikkaripur (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627161,Thimiri,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,942947,Thuruthy,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627164,Udinoor,true
+32,Kerala,558,Kasaragod,5631,Hosdurg,627166,Udma (Ct),true
+32,Kerala,558,Kasaragod,5631,Hosdurg,916088,Valiyaparmbu,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627110,Adhur,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,913022,Adkath Bail,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627119,Adoor,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627088,Badiyadka,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627118,Bandadka,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627114,Bedadka,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627090,Bela,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627109,Bellur,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627135,Chemnad (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627134,Chengala (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627120,Delampady,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627100,Kalnad,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627111,Karadka,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627117,Karivedakam,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,913024,Kasaragod,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627113,Kolathur,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627133,Kudlu (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627107,Kumbadaje,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627116,Kuttikole,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627132,Madhur (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627112,Muliyar,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627115,Munnad,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627103,Muttathody,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627105,Nekraje,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627108,Nettanige,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627089,Nirchal,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627104,Pady,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627099,Patla,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627101,Perumbala,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627130,Puthur (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627131,Shiribagilu (Ct),true
+32,Kerala,558,Kasaragod,5630,Kasaragod,913025,Thalangara,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627102,Thekkil,true
+32,Kerala,558,Kasaragod,5630,Kasaragod,627106,Ubrangala,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627082,Angadimogaru,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627097,Arikady,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627069,Badaje,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627081,Badoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627124,Bangra Manjeshwar (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627080,Bayar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627075,Bekoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627096,Bombrana,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627079,Chippar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627092,Edanad,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627085,Enmakaje,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627073,Heroor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627123,Hosabettu (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627098,Ichilampady,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627072,Ichilangod,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627065,Kadambar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627062,Kaliyoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627093,Kannur,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627086,Kattukukke,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627076,Kayyar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627094,Kidoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627060,Kodalamogaru,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627071,Kodibail,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627128,Koipady (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627061,Koliyoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627074,Kubanoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627077,Kudalmarkala,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627067,Kuloor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627121,Kunjathur (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627068,Majibail,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627126,Mangalpady (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627064,Meenja,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627129,Mogral (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627066,Moodambail,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627083,Mugu,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627070,Mulinja,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627087,Padre,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627078,Paivalike,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627059,Pathur,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627057,Pavoor,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627091,Puthige,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627084,Sheni,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627127,Shiriya (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627063,Talikala,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,913026,Udyawar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627095,Ujarulvar,true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627125,Uppala (Ct),true
+32,Kerala,558,Kasaragod,5932,Manjeswaram,627058,Vorkady,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627145,Balal,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627141,Belur,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627150,Bheemanady,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627157,Cheemeni II,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627149,Chittarikkal,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627143,Kallar,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627156,Karindalam,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627155,Kinanoor,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627142,Kodom,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627146,Maloth,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627148,Palavayal,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627144,Panathady,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627151,Parappa,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627152,Thayanur,true
+32,Kerala,558,Kasaragod,5933,Vellarikkundu,627147,West Eleri,true
+32,Kerala,559,Kollam,5684,Karunagappally,628365,Adinad (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628357,Alappad,true
+32,Kerala,559,Kollam,5684,Karunagappally,628369,Ayanivelikulangara (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628372,Chavara (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628358,Clappana,true
+32,Kerala,559,Kollam,5684,Karunagappally,628367,Kallelibhagom (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628368,Karunagappally (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628364,Kulasekharapuram (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628373,Neendakara (Og),true
+32,Kerala,559,Kollam,5684,Karunagappally,628363,Oachira (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628371,Panmana (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628360,Pavumba,true
+32,Kerala,559,Kollam,5684,Karunagappally,628359,Thazhava,true
+32,Kerala,559,Kollam,5684,Karunagappally,628362,Thekkumbhagom,true
+32,Kerala,559,Kollam,5684,Karunagappally,628361,Thevalakkara,true
+32,Kerala,559,Kollam,5684,Karunagappally,628366,Thodiyoor (Ct),true
+32,Kerala,559,Kollam,5684,Karunagappally,628370,Vadakkumthala (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628447,Adichanalloor (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628435,Chirakkara,true
+32,Kerala,559,Kollam,5688,Kollam,628442,Elampalloor (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628374,Eravipuram (Og) (Part),true
+32,Kerala,559,Kollam,5688,Kollam,628438,Kalluvathukkal,true
+32,Kerala,559,Kollam,5688,Kollam,913477,Kilikollur,true
+32,Kerala,559,Kollam,5688,Kollam,628432,Kizhakkekallada,true
+32,Kerala,559,Kollam,5688,Kollam,913829,Kollam East,true
+32,Kerala,559,Kollam,5688,Kollam,913830,Kollam West,true
+32,Kerala,559,Kollam,5688,Kollam,628444,Kottamkara (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,913836,Kottappuram,true
+32,Kerala,559,Kollam,5688,Kollam,913833,Mangad,true
+32,Kerala,559,Kollam,5688,Kollam,628449,Mayyanad (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628450,Meenad (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628433,Mulavana,true
+32,Kerala,559,Kollam,5688,Kollam,913835,Mundackal,true
+32,Kerala,559,Kollam,5688,Kollam,628431,Mundrothuruth,true
+32,Kerala,559,Kollam,5688,Kollam,628443,Nedumpana (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628434,Pallimon,true
+32,Kerala,559,Kollam,5688,Kollam,628440,Panayam (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628436,Paravoor (Part),true
+32,Kerala,559,Kollam,5688,Kollam,628437,Parippally,true
+32,Kerala,559,Kollam,5688,Kollam,916072,Perayam,true
+32,Kerala,559,Kollam,5688,Kollam,628441,Perinad (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628451,Poothakkulam (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,913832,Sakthikulangara,true
+32,Kerala,559,Kollam,5688,Kollam,628448,Thazhuthala (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628445,Thrikkadavoor (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628439,Thrikkaruva (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,628446,Thrikkovilvattom (Ct),true
+32,Kerala,559,Kollam,5688,Kollam,913834,Vadakkevila,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628422,Chadayamangalam,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628410,Chakkuvarakkal,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628429,Chithara,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628418,Elamad,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628413,Ezhukone,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628424,Ittiva,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628425,Kadakkal,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628407,Kalayapuram,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628414,Kareepra,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628430,Kottarakkara (Ct),true
+32,Kerala,559,Kollam,5687,Kottarakkara,628423,Kottukkal,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628406,Kulakkada,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628427,Kummil,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628428,Mancode,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628409,Melila,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628408,Mylom,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628412,Neduvathoor,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628426,Nilamel,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628415,Odanavattam,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628404,Pavithreswaram,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628420,Pooyappally,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628405,Puthur,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628416,Ummannoor,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628417,Valakam,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628421,Velinalloor,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628419,Veliyam,true
+32,Kerala,559,Kollam,5687,Kottarakkara,628411,Vettikkavala,true
+32,Kerala,559,Kollam,5685,Kunnathur,628377,Kunnathur,true
+32,Kerala,559,Kollam,5685,Kunnathur,628380,Mynagappally,true
+32,Kerala,559,Kollam,5685,Kunnathur,628376,Poruvazhy,true
+32,Kerala,559,Kollam,5685,Kunnathur,628378,Sasthamkotta,true
+32,Kerala,559,Kollam,5685,Kunnathur,628375,Sooranad North,true
+32,Kerala,559,Kollam,5685,Kunnathur,628379,Sooranad South,true
+32,Kerala,559,Kollam,5685,Kunnathur,628381,West Kallada,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628387,Pathanapuram,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628383,Pattazhy,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628382,Pattazhy Vadakkekara,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628386,Pidavoor,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628389,Piravanthur,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628388,Punnala,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628384,Thalavoor,true
+32,Kerala,559,Kollam,5686,Pathanapuram,628385,Vilakkudy,true
+32,Kerala,559,Kollam,5947,Punalur,628402,Alayamon,true
+32,Kerala,559,Kollam,5947,Punalur,628400,Anchal,true
+32,Kerala,559,Kollam,5947,Punalur,628398,Arackal,true
+32,Kerala,559,Kollam,5947,Punalur,628393,Arienkavu,true
+32,Kerala,559,Kollam,5947,Punalur,628396,Ayiranalloor,true
+32,Kerala,559,Kollam,5947,Punalur,628403,Channappetta,true
+32,Kerala,559,Kollam,5947,Punalur,628391,Edamon,true
+32,Kerala,559,Kollam,5947,Punalur,628399,Edamulackal,true
+32,Kerala,559,Kollam,5947,Punalur,628401,Eroor,true
+32,Kerala,559,Kollam,5947,Punalur,628397,Karavaloor (Part),true
+32,Kerala,559,Kollam,5947,Punalur,628394,Kulathupuzha,true
+32,Kerala,559,Kollam,5947,Punalur,913826,Punalur,true
+32,Kerala,559,Kollam,5947,Punalur,628392,Thenmala,true
+32,Kerala,559,Kollam,5947,Punalur,628395,Thinkalkarikkakom,true
+32,Kerala,559,Kollam,5947,Punalur,628390,Valacode (Part),true
+32,Kerala,560,Kottayam,5671,Changanassery,628183,Changanassery (Part),true
+32,Kerala,560,Kottayam,5671,Changanassery,628191,Chethipuzha (Ct),true
+32,Kerala,560,Kottayam,5671,Changanassery,628189,Kangazha,true
+32,Kerala,560,Kottayam,5671,Changanassery,628186,Karukachal,true
+32,Kerala,560,Kottayam,5671,Changanassery,628181,Kurichy,true
+32,Kerala,560,Kottayam,5671,Changanassery,628184,Madappally,true
+32,Kerala,560,Kottayam,5671,Changanassery,628187,Nedumkunnam,true
+32,Kerala,560,Kottayam,5671,Changanassery,628193,Paippad (Ct),true
+32,Kerala,560,Kottayam,5671,Changanassery,628185,Thottackad,true
+32,Kerala,560,Kottayam,5671,Changanassery,628192,Thrikkodithanam (Ct),true
+32,Kerala,560,Kottayam,5671,Changanassery,628180,Vakathanam,true
+32,Kerala,560,Kottayam,5671,Changanassery,913809,Vazhappally East,true
+32,Kerala,560,Kottayam,5671,Changanassery,628182,Vazhappally West,true
+32,Kerala,560,Kottayam,5671,Changanassery,628188,Vazhoor,true
+32,Kerala,560,Kottayam,5671,Changanassery,628190,Vellavoor,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628201,Cheruvally,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628200,Chirakkadavu,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628196,Edakkunnam,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628199,Elamgulam,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628198,Elikkulam,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628203,Erumeli North,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628204,Erumeli South,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628197,Kanjirappally,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628194,Koottickal,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628202,Koovappally,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,916076,Koruthode,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628205,Manimala,true
+32,Kerala,560,Kottayam,5672,Kanjirappally,628195,Mundakayam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628173,Aimanam (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628160,Akalakunnam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628162,Anikkad,true
+32,Kerala,560,Kottayam,5670,Kottayam,628155,Arpookara,true
+32,Kerala,560,Kottayam,5670,Kottayam,628172,Athirampuzha (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628159,Ayarkunnam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628161,Chengalam East,true
+32,Kerala,560,Kottayam,5670,Kottayam,628176,Chengalam West,true
+32,Kerala,560,Kottayam,5670,Kottayam,628171,Ettumanoor (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628156,Kaipuzha,true
+32,Kerala,560,Kottayam,5670,Kottayam,628163,Kooroppada,true
+32,Kerala,560,Kottayam,5670,Kottayam,913807,Kottayam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628166,Kumarakam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628164,Manarcad,true
+32,Kerala,560,Kottayam,5670,Kottayam,628169,Meenadam,true
+32,Kerala,560,Kottayam,5670,Kottayam,628165,Muttampalam (Part),true
+32,Kerala,560,Kottayam,5670,Kottayam,628177,Nattakam (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628157,Onamthuruth,true
+32,Kerala,560,Kottayam,5670,Kottayam,628170,Pampady,true
+32,Kerala,560,Kottayam,5670,Kottayam,628178,Panachikkad (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628158,Peroor,true
+32,Kerala,560,Kottayam,5670,Kottayam,628174,Perumbaikad (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628179,Puthuppally (Ct),true
+32,Kerala,560,Kottayam,5670,Kottayam,628167,Thiruvarpu,true
+32,Kerala,560,Kottayam,5670,Kottayam,628168,Veloor (Part),true
+32,Kerala,560,Kottayam,5670,Kottayam,628175,Vijayapuram (Ct),true
+32,Kerala,560,Kottayam,5668,Meenachil,628124,Bharananganam,true
+32,Kerala,560,Kottayam,5668,Meenachil,628130,Elackad,true
+32,Kerala,560,Kottayam,5668,Meenachil,628138,Erattupetta (Ct),true
+32,Kerala,560,Kottayam,5668,Meenachil,628118,Kadanad,true
+32,Kerala,560,Kottayam,5668,Meenachil,916077,Kadaplamattom,true
+32,Kerala,560,Kottayam,5668,Meenachil,628129,Kanakkari,true
+32,Kerala,560,Kottayam,5668,Meenachil,628131,Kidangoor,true
+32,Kerala,560,Kottayam,5668,Meenachil,628135,Kondoor,true
+32,Kerala,560,Kottayam,5668,Meenachil,628128,Kuravilangad,true
+32,Kerala,560,Kottayam,5668,Meenachil,628127,Kurichithanam,true
+32,Kerala,560,Kottayam,5668,Meenachil,628125,Lalam (Part),true
+32,Kerala,560,Kottayam,5668,Meenachil,628133,Meenachil (Part),true
+32,Kerala,560,Kottayam,5668,Meenachil,628119,Melukavu,true
+32,Kerala,560,Kottayam,5668,Meenachil,628114,Monippally,true
+32,Kerala,560,Kottayam,5668,Meenachil,628120,Moonilavu,true
+32,Kerala,560,Kottayam,5668,Meenachil,931678,Poonjar,true
+32,Kerala,560,Kottayam,5668,Meenachil,628137,Poonjar Nadubhagam,true
+32,Kerala,560,Kottayam,5668,Meenachil,628136,Poonjar Thekkekara,true
+32,Kerala,560,Kottayam,5668,Meenachil,628134,Poovarany,true
+32,Kerala,560,Kottayam,5668,Meenachil,628132,Puliyannoor (Part),true
+32,Kerala,560,Kottayam,5668,Meenachil,628117,Ramapuram,true
+32,Kerala,560,Kottayam,5668,Meenachil,628122,Teekoy,true
+32,Kerala,560,Kottayam,5668,Meenachil,628121,Thalanadu,true
+32,Kerala,560,Kottayam,5668,Meenachil,628123,Thalappalam,true
+32,Kerala,560,Kottayam,5668,Meenachil,628115,Uzhavoor,true
+32,Kerala,560,Kottayam,5668,Meenachil,628126,Vallichira,true
+32,Kerala,560,Kottayam,5668,Meenachil,628113,Veliyannoor,true
+32,Kerala,560,Kottayam,5668,Meenachil,628116,Vellilappally,true
+32,Kerala,560,Kottayam,5669,Vaikom,628139,Chempu,true
+32,Kerala,560,Kottayam,5669,Vaikom,628143,Kaduthuruthy,true
+32,Kerala,560,Kottayam,5669,Vaikom,628151,Kallara,true
+32,Kerala,560,Kottayam,5669,Vaikom,628154,Kothanalloor,true
+32,Kerala,560,Kottayam,5669,Vaikom,628145,Kulasekharamangalam,true
+32,Kerala,560,Kottayam,5669,Vaikom,628153,Manjoor,true
+32,Kerala,560,Kottayam,5669,Vaikom,628141,Mulakulam,true
+32,Kerala,560,Kottayam,5669,Vaikom,628152,Muttuchira,true
+32,Kerala,560,Kottayam,5669,Vaikom,628147,Naduvile (Part),true
+32,Kerala,560,Kottayam,5669,Vaikom,628142,Njeezhoor,true
+32,Kerala,560,Kottayam,5669,Vaikom,628149,Thalayazham,true
+32,Kerala,560,Kottayam,5669,Vaikom,916079,T V Puram,true
+32,Kerala,560,Kottayam,5669,Vaikom,916078,Udayanapuram,true
+32,Kerala,560,Kottayam,5669,Vaikom,628146,Vadakkemuri (Part),true
+32,Kerala,560,Kottayam,5669,Vaikom,628144,Vadayar,true
+32,Kerala,560,Kottayam,5669,Vaikom,628148,Vaikom (Part),true
+32,Kerala,560,Kottayam,5669,Vaikom,628150,Vechoor,true
+32,Kerala,560,Kottayam,5669,Vaikom,628140,Velloor,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627376,Arikkulam (Part),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627400,Atholi (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627381,Avitanallur,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627397,Balusseri (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627372,Chakkittapara,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627370,Changaroth,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627399,Chemancheri (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627371,Chempanoda,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627382,Chengottukavu,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627368,Cheruvannur,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627387,Eravattur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627386,Iringal (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627378,Kayanna,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627394,Keezhariyur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627379,Koorachundu,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627388,Koothali (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627377,Kottur,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627391,Kozhukkallur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627389,Menhaniam (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627390,Meppayyur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627375,Moodadi,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627395,Naduvannur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627374,Nochad,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627369,Palery,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,913306,Panthalayani,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627367,Payyoli,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627373,Perambra,true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627393,Thikkody (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627392,Thurayur (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,627398,Ulliyeri (Ct),true
+32,Kerala,561,Kozhikode,5639,Koyilandi,913305,Viyyur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627437,Beypore (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627416,Chathamangalam,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627422,Chelannur (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913303,Chelavur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627436,Cheruvannur (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913302,Chevayur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627441,Elathur (Og),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627439,Feroke (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627442,Kadalundi (Og),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627419,Kakkad,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627424,Kakkodi (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627401,Kakkur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627438,Karuvanthuruthy (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913300,Kasaba,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913299,Katchery,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627420,Kodiyathur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913298,Kottuli,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627418,Kumaranallur,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627426,Kunnamangalam (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627425,Kuruvattur (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627431,Kuttikkattoor (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627417,Madavoor,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627429,Mavoor (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913297,Nagaram,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627421,Nanmanda (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627414,Neeleswaram,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913296,Nellikode,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627432,Olavanna (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913295,Panniankara,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627433,Pantheeramkavu (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627434,Perumanna (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627430,Peruvayal (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627427,Poolacode (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,645600,Puthiyangadi (Og) (Part),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627435,Ramanattukara (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627423,Thalakkulathur (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,627428,Thazhecode (Ct),true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913293,Valayanad,true
+32,Kerala,561,Kozhikode,5640,Kozhikode,913292,Vengeri,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627408,Engapuzha,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627380,Kanthalad,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,916091,Kattippara,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627406,Kedavur,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627383,Kinalur,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627403,Kizhakkoth,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627410,Kodencheri,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627440,Koduvally (Og),true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627412,Koodaranji,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627409,Koodathayi,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627402,Narikkuni,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627411,Nellipoyil,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627396,Panangad (Ct),true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627407,Puthuppadi,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627415,Puthur,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627405,Raroth,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627385,Sivapuram,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627413,Thiruvambadi,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627384,Unnikulam,true
+32,Kerala,561,Kozhikode,5938,Thamarassery,627404,Vavad,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627362,Ayancheri (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627360,Azhiyur (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627354,Chekkiad (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627361,Chorode (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627358,Edacheri (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627359,Eramala (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627345,Kavilumpara,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627346,Kayakkodi,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627363,Kottappally (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627356,Kunnummal (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627351,Kuttiadi,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627366,Maniyur (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627352,Maruthonkara,true
+32,Kerala,561,Kozhikode,5638,Vatakara,913307,Nadakkuthazha,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627357,Nadapuram (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627347,Narippatta,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627341,Onchiam,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627365,Palayad (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627348,Purameri,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627344,Thinoor,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627349,Thiruvallur,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627355,Thuneri (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627353,Valayam (Ct),true
+32,Kerala,561,Kozhikode,5638,Vatakara,627342,Vanimel,true
+32,Kerala,561,Kozhikode,5638,Vatakara,913308,Vatakara,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627350,Velom,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627343,Vilangad,true
+32,Kerala,561,Kozhikode,5638,Vatakara,627364,Villiappally (Ct),true
+32,Kerala,562,Malappuram,5641,Ernad,627469,Anakkayam (Og),true
+32,Kerala,562,Malappuram,5641,Ernad,627447,Areekode,true
+32,Kerala,562,Malappuram,5641,Ernad,627463,Chembrasseri,true
+32,Kerala,562,Malappuram,5641,Ernad,627450,Edavanna,true
+32,Kerala,562,Malappuram,5641,Ernad,627460,Elankur,true
+32,Kerala,562,Malappuram,5641,Ernad,627451,Karakunnu,true
+32,Kerala,562,Malappuram,5641,Ernad,627452,Kavanoor,true
+32,Kerala,562,Malappuram,5641,Ernad,627465,Kizhuparamba (Ct),true
+32,Kerala,562,Malappuram,5641,Ernad,913321,Malappuram,true
+32,Kerala,562,Malappuram,5641,Ernad,913319,Manjeri,true
+32,Kerala,562,Malappuram,5641,Ernad,913316,Melmuri,true
+32,Kerala,562,Malappuram,5641,Ernad,913318,Narukara,true
+32,Kerala,562,Malappuram,5641,Ernad,913320,Panakkad,true
+32,Kerala,562,Malappuram,5641,Ernad,627461,Pandalur,true
+32,Kerala,562,Malappuram,5641,Ernad,627464,Pandikkad,true
+32,Kerala,562,Malappuram,5641,Ernad,913317,Payyanad,true
+32,Kerala,562,Malappuram,5641,Ernad,627449,Perakamanna,true
+32,Kerala,562,Malappuram,5641,Ernad,627457,Pookkottur,true
+32,Kerala,562,Malappuram,5641,Ernad,627458,Pulpatta,true
+32,Kerala,562,Malappuram,5641,Ernad,627459,Trikkalangode,true
+32,Kerala,562,Malappuram,5641,Ernad,627448,Urangattiri,true
+32,Kerala,562,Malappuram,5641,Ernad,627462,Vettikkattiri,true
+32,Kerala,562,Malappuram,5641,Ernad,627443,Vettilappara,true
+32,Kerala,562,Malappuram,5941,Kondotty,627446,Cheekkode,true
+32,Kerala,562,Malappuram,5941,Kondotty,627541,Chelambra (Ct),true
+32,Kerala,562,Malappuram,5941,Kondotty,627467,Cherukavu (Ct),true
+32,Kerala,562,Malappuram,5941,Kondotty,627468,Kondotty (Ct),true
+32,Kerala,562,Malappuram,5941,Kondotty,627453,Kuzhimanna,true
+32,Kerala,562,Malappuram,5941,Kondotty,627456,Morayur,true
+32,Kerala,562,Malappuram,5941,Kondotty,627454,Muthuvallur,true
+32,Kerala,562,Malappuram,5941,Kondotty,627455,Nediyiruppu,true
+32,Kerala,562,Malappuram,5941,Kondotty,627542,Pallikal (Ct),true
+32,Kerala,562,Malappuram,5941,Kondotty,627445,Pulikkal,true
+32,Kerala,562,Malappuram,5941,Kondotty,627444,Vazhakkad,true
+32,Kerala,562,Malappuram,5941,Kondotty,627466,Vazhayur (Ct),true
+32,Kerala,562,Malappuram,5642,Nilambur,627471,Akampadam,true
+32,Kerala,562,Malappuram,5642,Nilambur,627476,Amarambalam,true
+32,Kerala,562,Malappuram,5642,Nilambur,627482,Chokkad,true
+32,Kerala,562,Malappuram,5642,Nilambur,627473,Chungathara,true
+32,Kerala,562,Malappuram,5642,Nilambur,627474,Edakkara,true
+32,Kerala,562,Malappuram,5642,Nilambur,627483,Kalikavu,true
+32,Kerala,562,Malappuram,5642,Nilambur,627477,Karulai,true
+32,Kerala,562,Malappuram,5642,Nilambur,627487,Karuvarakundu,true
+32,Kerala,562,Malappuram,5642,Nilambur,627486,Kerala Estate,true
+32,Kerala,562,Malappuram,5642,Nilambur,627472,Kurumbilangode,true
+32,Kerala,562,Malappuram,5642,Nilambur,627478,Mambad,true
+32,Kerala,562,Malappuram,5642,Nilambur,916092,Moothedam,true
+32,Kerala,562,Malappuram,5642,Nilambur,627488,Nilambur (Ct),true
+32,Kerala,562,Malappuram,5642,Nilambur,627480,Porur,true
+32,Kerala,562,Malappuram,5642,Nilambur,916100,Pothukallu,true
+32,Kerala,562,Malappuram,5642,Nilambur,627470,Pullipadam,true
+32,Kerala,562,Malappuram,5642,Nilambur,627479,Thiruvali,true
+32,Kerala,562,Malappuram,5642,Nilambur,627485,Thuvvur,true
+32,Kerala,562,Malappuram,5642,Nilambur,627475,Vazhikkadavu,true
+32,Kerala,562,Malappuram,5642,Nilambur,627484,Vellayur,true
+32,Kerala,562,Malappuram,5642,Nilambur,627481,Wandoor,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627503,Aliparamba,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627504,Anamangad,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627498,Angadippuram,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627501,Arakkuparamba,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627489,Edappatta,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627505,Elamkulam,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627499,Kariavattom,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627491,Keezhattur,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627510,Kodur (Ct),true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627509,Koottilangadi (Ct),true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627495,Kuruva,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627507,Kuruvambalam,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627493,Mankada,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627490,Melattur,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627508,Moorkkanad,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627492,Nenmini,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,913315,Pathaikkara,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,913314,Perinthalmanna,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627506,Pulamanthole,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627496,Puzhakkattiri,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627502,Thazhekode,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627494,Vadakkangara,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627497,Valambur,true
+32,Kerala,562,Malappuram,5643,Perinthalmanna,627500,Vettathur,true
+32,Kerala,562,Malappuram,5646,Ponnani,627564,Alamcode (Ct),true
+32,Kerala,562,Malappuram,5646,Ponnani,627563,Edappal (Ct),true
+32,Kerala,562,Malappuram,5646,Ponnani,913310,Ezhuvathiruthy,true
+32,Kerala,562,Malappuram,5646,Ponnani,627562,Kalady (Ct),true
+32,Kerala,562,Malappuram,5646,Ponnani,627565,Marancheri (Ct),true
+32,Kerala,562,Malappuram,5646,Ponnani,627561,Nannamukku,true
+32,Kerala,562,Malappuram,5646,Ponnani,627560,Perumpadappa,true
+32,Kerala,562,Malappuram,5646,Ponnani,913309,Ponnani Nagaram,true
+32,Kerala,562,Malappuram,5646,Ponnani,627557,Tavanur,true
+32,Kerala,562,Malappuram,5646,Ponnani,627558,Vattamkulam,true
+32,Kerala,562,Malappuram,5646,Ponnani,627559,Veliyankode,true
+32,Kerala,562,Malappuram,5644,Tirur,627523,Ananthavoor,true
+32,Kerala,562,Malappuram,5644,Tirur,627521,Athavanad,true
+32,Kerala,562,Malappuram,5644,Tirur,627531,Cheriyamundam (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627520,Edayoor,true
+32,Kerala,562,Malappuram,5644,Tirur,627538,Irimbiliyam (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627516,Kalpakancheri,true
+32,Kerala,562,Malappuram,5644,Tirur,627532,Kattipparuthi (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627527,Kottakkal (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627522,Kurumbathur,true
+32,Kerala,562,Malappuram,5644,Tirur,627537,Kuttippuram (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627526,Mangalam,true
+32,Kerala,562,Malappuram,5644,Tirur,627517,Marakkara,true
+32,Kerala,562,Malappuram,5644,Tirur,627519,Melmuri,true
+32,Kerala,562,Malappuram,5644,Tirur,627536,Naduvattom (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627514,Niramaruthur,true
+32,Kerala,562,Malappuram,5644,Tirur,627513,Ozhur,true
+32,Kerala,562,Malappuram,5644,Tirur,627511,Pariyapuram,true
+32,Kerala,562,Malappuram,5644,Tirur,627528,Perumanna (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627518,Ponmala,true
+32,Kerala,562,Malappuram,5644,Tirur,627529,Ponmundam (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627525,Purathur,true
+32,Kerala,562,Malappuram,5644,Tirur,627533,Talakkad (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627530,Tanalur (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627512,Tanur,true
+32,Kerala,562,Malappuram,5644,Tirur,627535,Thirunavaya (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,913311,Thrikandiyur,true
+32,Kerala,562,Malappuram,5644,Tirur,913312,Tirur,true
+32,Kerala,562,Malappuram,5644,Tirur,627534,Triprangode (Ct),true
+32,Kerala,562,Malappuram,5644,Tirur,627515,Valavannur,true
+32,Kerala,562,Malappuram,5644,Tirur,627524,Vettom,true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627552,Abdu Rahiman Nagar (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627544,Ariyallur (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,916102,Edarikode,true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627547,Kannamangalam (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627545,Moonniyur (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627555,Nannambra (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627554,Neduva (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627549,Othukkungal (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627540,Parappanangadi,true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627550,Parappur (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627546,Peruvallur (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627543,Thenhippalam (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627556,Thennala (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627553,Tirurangadi (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627548,Urakam (Ct),true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627539,Vallikkunnu,true
+32,Kerala,562,Malappuram,5645,Tirurangadi,627551,Vengara (Ct),true
+32,Kerala,563,Palakkad,5651,Alathur,627713,Alathur (Ct),true
+32,Kerala,563,Palakkad,5651,Alathur,627698,Erimayur-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627699,Erimayur-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627704,Kannambra-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627705,Kannambra-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627701,Kavasseri-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627702,Kavasseri-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627712,Kizhakkencheri-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627711,Kizhakkencheri-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627686,Kottayi-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627687,Kottayi-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627694,Kuthannur-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627695,Kuthannur-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627693,Kuzhalmannam-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627690,Kuzhalmannam-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627710,Mangalam Dam,true
+32,Kerala,563,Palakkad,5651,Alathur,627688,Mathur -I,true
+32,Kerala,563,Palakkad,5651,Alathur,627689,Mathur -Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627700,Melarcode,true
+32,Kerala,563,Palakkad,5651,Alathur,627685,Peringottukurissi-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627684,Peringottukurissi-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627703,Puducode,true
+32,Kerala,563,Palakkad,5651,Alathur,627696,Tarur-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627697,Tarur-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627691,Thenkurissi-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627692,Thenkurissi-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627706,Vadakkancheri-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627707,Vadakkancheri-Ii,true
+32,Kerala,563,Palakkad,5651,Alathur,627709,Vandazhi-I,true
+32,Kerala,563,Palakkad,5651,Alathur,627708,Vandazhi-Ii,true
+32,Kerala,563,Palakkad,5650,Chittur,627673,Ayiloor,true
+32,Kerala,563,Palakkad,5650,Chittur,627656,Chittur (Part),true
+32,Kerala,563,Palakkad,5650,Chittur,627677,Elavancherry,true
+32,Kerala,563,Palakkad,5650,Chittur,627662,Eruthempathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627674,Kairady,true
+32,Kerala,563,Palakkad,5650,Chittur,627682,Koduvayur 1,true
+32,Kerala,563,Palakkad,5650,Chittur,627654,Koduvayur-Ii,true
+32,Kerala,563,Palakkad,5650,Chittur,627679,Kollengode-I,true
+32,Kerala,563,Palakkad,5650,Chittur,627678,Kollengode-Ii,true
+32,Kerala,563,Palakkad,5650,Chittur,627659,Kozhinjampara,true
+32,Kerala,563,Palakkad,5650,Chittur,627663,Kozhipathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627665,Moolathara,true
+32,Kerala,563,Palakkad,5650,Chittur,627680,Muthalamada-I,true
+32,Kerala,563,Palakkad,5650,Chittur,627681,Muthalamada-Ii,true
+32,Kerala,563,Palakkad,5650,Chittur,627658,Nalleppilly,true
+32,Kerala,563,Palakkad,5650,Chittur,627676,Nelliyampathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627672,Nemmara,true
+32,Kerala,563,Palakkad,5650,Chittur,627661,Ozhalapathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627670,Pallassana,true
+32,Kerala,563,Palakkad,5650,Chittur,627668,Pattanchery,true
+32,Kerala,563,Palakkad,5650,Chittur,627666,Perumatty,true
+32,Kerala,563,Palakkad,5650,Chittur,627683,Puthunagaram (Ct),true
+32,Kerala,563,Palakkad,5650,Chittur,627655,Thathamangalam (Part),true
+32,Kerala,563,Palakkad,5650,Chittur,627657,Thekkedesom,true
+32,Kerala,563,Palakkad,5650,Chittur,627675,Thiruvazhiyad,true
+32,Kerala,563,Palakkad,5650,Chittur,627660,Vadakarapathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627669,Vadavannur,true
+32,Kerala,563,Palakkad,5650,Chittur,627664,Valiyavallampathy,true
+32,Kerala,563,Palakkad,5650,Chittur,627671,Vallanghy,true
+32,Kerala,563,Palakkad,5650,Chittur,627667,Vandithavalam,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627603,Alanallur-I,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627604,Alanallur-Ii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627605,Alanallur-Iii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627622,Karakurissi,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627620,Karimba -I,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627621,Karimba -Ii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627606,Kottoppadam-I,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627624,Kottoppadam-Ii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627607,Kottoppadam-Iii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627623,Kumaramputhur,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627627,Mannarkad-I (Ct),true
+32,Kerala,563,Palakkad,5648,Mannarkad,627616,Mannarkad-Ii,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627615,Palakkayam,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627608,Payyanadam,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627617,Pottassery- I,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627618,Pottassery- II,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627619,Thachampara,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627625,Thachanattukara-I,true
+32,Kerala,563,Palakkad,5648,Mannarkad,627626,Thachanattukara-Ii,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627593,Ambalapara - I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627592,Ambalapara - II,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627582,Ananganadi,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627583,Chalavara,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627572,Cherpulacherry,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627577,Kadampazhipuram-I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627576,Kadampazhipuram-Ii,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627574,Karimpuzha-I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627575,Karimpuzha-Ii,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627594,Lakkidi-Perur- I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627595,Lakkidi-Perur- II,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627571,Nellaya,true
+32,Kerala,563,Palakkad,5647,Ottappalam,913322,Ottappalam I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,913323,Ottappalam II,true
+32,Kerala,563,Palakkad,5647,Ottappalam,916114,Pookkottukavu,true
+32,Kerala,563,Palakkad,5647,Ottappalam,913819,Shornur I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,913820,Shornur II,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627578,Sreekrishnapuram -I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627579,Sreekrishnapuram -Ii,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627581,Thrikkadeeri -I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627580,Thrikkadeeri -Ii,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627591,Vaniyamkulam-I,true
+32,Kerala,563,Palakkad,5647,Ottappalam,627601,Vaniyamkulam- II (Ct),true
+32,Kerala,563,Palakkad,5647,Ottappalam,627573,Vellinezhi,true
+32,Kerala,563,Palakkad,5649,Palakkad,627649,Akathethara,true
+32,Kerala,563,Palakkad,5649,Palakkad,627646,Elappully-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627645,Elappully-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,627640,Kannadi-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627641,Kannadi-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,627629,Keralassery,true
+32,Kerala,563,Palakkad,5649,Palakkad,627642,Kodumba,true
+32,Kerala,563,Palakkad,5649,Palakkad,627632,Kongad-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627628,Kongad-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,627638,Malampuzha-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627639,Malampuzha-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,627631,Mankara,true
+32,Kerala,563,Palakkad,5649,Palakkad,627630,Mannur,true
+32,Kerala,563,Palakkad,5649,Palakkad,627652,Marutharode (Ct),true
+32,Kerala,563,Palakkad,5649,Palakkad,627634,Mundur-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627633,Mundur-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,913324,Palakkad I,true
+32,Kerala,563,Palakkad,5649,Palakkad,913325,Palakkad II,true
+32,Kerala,563,Palakkad,5649,Palakkad,913326,Palakkad III,true
+32,Kerala,563,Palakkad,5649,Palakkad,627635,Parli-I,true
+32,Kerala,563,Palakkad,5649,Palakkad,627636,Parli-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,627643,Peruvemba,true
+32,Kerala,563,Palakkad,5649,Palakkad,627653,Pirayiri (Ct),true
+32,Kerala,563,Palakkad,5649,Palakkad,627644,Polpully,true
+32,Kerala,563,Palakkad,5649,Palakkad,627650,Pudussery Central (Ct),true
+32,Kerala,563,Palakkad,5649,Palakkad,627647,Pudussery East,true
+32,Kerala,563,Palakkad,5649,Palakkad,627651,Pudussery West (Ct),true
+32,Kerala,563,Palakkad,5649,Palakkad,627648,Puthuppariyaram 1,true
+32,Kerala,563,Palakkad,5649,Palakkad,627637,Puthuppariyaram-Ii,true
+32,Kerala,563,Palakkad,5649,Palakkad,913327,Yakkara,true
+32,Kerala,563,Palakkad,5940,Pattambi,627566,Anakkara,true
+32,Kerala,563,Palakkad,5940,Pattambi,627588,Chalissery,true
+32,Kerala,563,Palakkad,5940,Pattambi,627587,Kappur,true
+32,Kerala,563,Palakkad,5940,Pattambi,627585,Koppam,true
+32,Kerala,563,Palakkad,5940,Pattambi,627570,Kulukkallur,true
+32,Kerala,563,Palakkad,5940,Pattambi,627599,Muthuthala (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627589,Nagalassery,true
+32,Kerala,563,Palakkad,5940,Pattambi,627597,Ongallur -I (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627596,Ongallur -Ii (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627567,Parudur,true
+32,Kerala,563,Palakkad,5940,Pattambi,627598,Pattambi (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627586,Pattithara,true
+32,Kerala,563,Palakkad,5940,Pattambi,627590,Thirumittacode-I,true
+32,Kerala,563,Palakkad,5940,Pattambi,627602,Thirumittacode -Ii (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627568,Thiruvegapura,true
+32,Kerala,563,Palakkad,5940,Pattambi,627600,Thrithala (Ct),true
+32,Kerala,563,Palakkad,5940,Pattambi,627584,Vallapuzha,true
+32,Kerala,563,Palakkad,5940,Pattambi,627569,Vilayur,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627611,Agali,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627614,Kallamala,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627612,Kottathara,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627609,Padavayal,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627610,Pudur,true
+32,Kerala,563,Palakkad,7176,Tribal Taluk Office Attappadi,627613,Sholayur,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,913824,Adoor,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628347,Angadickal,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628350,Enadimangalam,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628356,Enathu,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628352,Erathu,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628351,Ezhamkulam,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628355,Kadampanadu,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628346,Kodumon,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628344,Kurampala,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628354,Pallickal,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628343,Pandalam,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628345,Pandalam Thekkekara,true
+32,Kerala,564,Pathanamthitta,5683,Adoor,628353,Peringanadu (Part),true
+32,Kerala,564,Pathanamthitta,5683,Adoor,916073,Thumpamon,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628339,Aruvappulam,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628321,Chittar,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628340,Iravan,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628349,Kalanjoor,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628338,Konni,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628335,Konnithazham,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628348,Koodal,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628334,Malayalapuzha (Part),true
+32,Kerala,564,Pathanamthitta,5943,Konni,628333,Mylapra (Part),true
+32,Kerala,564,Pathanamthitta,5943,Konni,628336,Pramadom,true
+32,Kerala,564,Pathanamthitta,5943,Konni,913823,Seethathodu,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628341,Thannithode,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628329,Vallicode,true
+32,Kerala,564,Pathanamthitta,5943,Konni,628337,Vallicode-Kottayam,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628325,Aranmula,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628328,Chenneerkara,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628327,Elanthoor,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628324,Kidangannur,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628342,Kozhenchery (Ct),true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628322,Kulanada,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628326,Mallapuzhassery,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628323,Mezhuveli,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628332,Naranganam,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628330,Omalloor,true
+32,Kerala,564,Pathanamthitta,5682,Kozhenchery,628331,Pathanamthitta (Part),true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628305,Anicad,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628308,Ezhumattoor,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628303,Kallooppara,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628306,Kottangal,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628302,Kunnamthanam,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628304,Mallappally,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628307,Perumpetty,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628310,Puramattam,true
+32,Kerala,564,Pathanamthitta,5680,Mallappally,628309,Thelliyoor,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628316,Angadi,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628314,Athikkayam,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628317,Ayiroor,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628318,Cherukole,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628311,Chethakkal,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628312,Kollamula,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628315,Pazhavangadi,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628313,Perunad,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628319,Ranni,true
+32,Kerala,564,Pathanamthitta,5681,Ranni,628320,Vadasserikkara,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628299,Eraviperoor,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628293,Kadapra,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628298,Kaviyoor,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628296,Kavumbhagom (Part),true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628300,Koipuram,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,913822,Kuttappuzha,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628297,Kuttoor,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628294,Nedumpuram,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628292,Niranam,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628295,Peringara,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,913821,Thiruvalla,true
+32,Kerala,564,Pathanamthitta,5679,Thiruvalla,628301,Thottapuzhassery,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628473,Alamcode (Ct),true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,916071,Anjuthengu,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628470,Attingal,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,913838,Avanavancherry,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628478,Azhoor (Ct),true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,913840,Chirayinkeezhu,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628477,Edakkode (Ct),true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628469,Elamba,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628471,Kadakkavoor,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628465,Karavaram,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628474,Keezhattingal (Ct),true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628460,Kilimanoor,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628476,Kizhuvilam,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628463,Koduvazhannoor,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,913841,Kunthallur,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,913839,Mudakkal,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628464,Nagaroor,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628461,Pazhayakunnummel,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628462,Pulimath,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628472,Sarkara,true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628475,Vakkom (Ct),true
+32,Kerala,565,Thiruvananthapuram,5689,Chirayinkeezhu,628459,Vellalloor,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628524,Amboori,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628522,Kallikkad,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628526,Keezharoor,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628540,Kulathummal (Ct),true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628541,Malayinkeezhu (Ct),true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628495,Mannoorkara,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628527,Maranalloor,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628521,Ottasekharamangalam,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628501,Perumkulam,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628523,Vazhichal,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628502,Veeranakavu,true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628539,Vilappil (Ct),true
+32,Kerala,565,Thiruvananthapuram,5945,Kattakkada,628542,Vilavoorkkal (Ct),true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628492,Anad,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628499,Aruvikkara,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628496,Aryanad,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628481,Kallara,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628504,Karakulam (Ct),true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,913453,Karuppur,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628489,Koliyakode,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628486,Kurupuzha,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628490,Manikkal,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,913452,Nedumangad,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628479,Nellanad,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628485,Palode,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628487,Panavoor,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628482,Pangode,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628483,Peringamala,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628488,Pullampara,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628491,Theakada,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628484,Thennoor,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628493,Tholicode,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628497,Uzhamalackal,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628480,Vamanapuram,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628503,Vattappara (Ct),true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628500,Vellanad,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628498,Vembayam,true
+32,Kerala,565,Thiruvananthapuram,5690,Nedumangad,628494,Vithura,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628529,Anavoor,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628544,Athiyannur (Ct),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,916070,Balaramapuram,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628533,Chenkal (Part),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628545,Kanjiramkulam (Ct),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628532,Karode,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628536,Karumkulam,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628531,Kollayil (Part),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628537,Kottukal (Part),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628534,Kulathoor,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628530,Kunnathukal,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,913454,Neyyattinkara,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628543,Pallichal (Ct),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628547,Parassala (Ct),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628546,Parasuvaikkal (Ct),true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628528,Perumkadavila,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,913455,Perumpazhuthur,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,916069,Poovar,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628535,Thirupuram,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628525,Vellarada,true
+32,Kerala,565,Thiruvananthapuram,5692,Neyyattinkara,628538,Vizhinjam (Part),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628508,Andoorkonam,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913456,Attipra,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913457,Cheruvackal,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628512,Iroopara (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913458,Kadakampalli,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628505,Kadinamkulam,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628517,Kalliyoor (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913459,Kawdiar,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628519,Kazhakkoottam(Og),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628507,Keezhthonnakkal,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628515,Kudappanakkunnu (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913462,Manacadu,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628506,Melthonnakkal,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628509,Menamkulam,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913463,Muttathara,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913464,Nemom,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628511,Pallippuram (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913466,Pangappara,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913465,Pattom,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913467,Peroorkada,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913468,Pettah,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913469,Sasthamangalam,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913470,Thirumala,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913471,Thiruvallam,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913472,Thycaud,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628513,Uliyazhathura (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913474,Ulloor,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,913475,Vanchiyoor,true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628516,Vattiyoorkavu (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628510,Veiloor (Ct),true
+32,Kerala,565,Thiruvananthapuram,5691,Thiruvananthapuram,628518,Venganoor (Ct),true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628453,Ayiroor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628454,Chemmaruthy,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,913837,Cherunniyoor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628452,Edava,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628458,Kudavoor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628457,Madavoor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628468,Manamboor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628455,Navaikulam,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628466,Ottoor,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628456,Pallickal,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,913451,Varkala,true
+32,Kerala,565,Thiruvananthapuram,5946,Varkala,628467,Vettoor,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627915,Alathur,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627905,Alur,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627912,Annallur,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,916115,Athirappally,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,913639,East Chalakkudy,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627904,Elanjipra,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627917,Kakkulissery,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627927,Kallettumkara (Ct),true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627940,Kallur Thekkummuri (Ct),true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627938,Kallur Vadakkummuri (Ct),true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627914,Kizhakkummuri,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627898,Kodakara,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627902,Kodassery,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627916,Kuruvilassery,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627901,Kuttichira,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627899,Mattathur,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627913,Melur,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627890,Mupliyam,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627937,Muringoor Thekkmmuri,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627936,Muringur Vadakkummuri (Ct),true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627891,Nandipulam,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627903,Pariyaram,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,913636,Perambra,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,913637,Potta,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627906,Thazhekkad,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627918,Thirumukkulam,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627911,Vadakkumbhagom,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627939,Vadama (Ct),true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627889,Varandarappilly,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,627900,Vellikulangara,true
+32,Kerala,566,Thrissur,5939,Chalakkudy,913638,West Chalakkudy,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627786,Annakara,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627804,Brahmakulam (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,913644,Chavakkad,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627796,Edakkazhiyur (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627805,Elavally (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627789,Engandiyur,true
+32,Kerala,566,Thrissur,5653,Chavakkad,913648,Guruvayur,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627787,Irimbranallur,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627799,Iringaprom (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627785,Kadappuram,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627792,Kadikkad (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627788,Kundazhiyur,true
+32,Kerala,566,Thrissur,5653,Chavakkad,931686,Manathala,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627808,Mullassery (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627790,Nattika,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627801,Orumanayur (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627806,Pavaratty (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627800,Perakam (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627798,Pookode (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627795,Punnayur (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627793,Punnayurkulam (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627811,Talikkulam (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627803,Thaikkad (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627794,Vadakkekad (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627810,Vadanappally (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627791,Valappad,true
+32,Kerala,566,Thrissur,5653,Chavakkad,627809,Venkitangu (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627807,Venmanad (Ct),true
+32,Kerala,566,Thrissur,5653,Chavakkad,627797,Vylathur (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627880,Ala (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627872,Azhikode,true
+32,Kerala,566,Thrissur,5655,Kodungallur,627874,Chendrappini (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627873,Edathiruthy (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627879,Edavilangu (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627885,Eriyad (Og),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627875,Kaipamangalam (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627870,Koolimuttam,true
+32,Kerala,566,Thrissur,5655,Kodungallur,913781,Lokamaleswaram,true
+32,Kerala,566,Thrissur,5655,Kodungallur,627884,Madathumpady (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627882,Methala (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627871,Padinjare Vemballur,true
+32,Kerala,566,Thrissur,5655,Kodungallur,627881,Pallippuram (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627878,Panangad (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627877,Pappinivattom (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627876,Perinjanam (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,627883,Poyya (Ct),true
+32,Kerala,566,Thrissur,5655,Kodungallur,913780,Pullut,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627774,Akathiyoor (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627783,Aloor (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,913641,Anjur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,913643,Arthat,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627739,Chemmanthatta,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627773,Chiramanangad (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627777,Chiranellur (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627776,Choondal (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627736,Chowwannur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627782,Eranellur (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627772,Eyyal (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627715,Kadangode,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627760,Kadavallur (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627784,Kandanassery (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627738,Kanipayyur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627763,Karikkad (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627771,Kariyannur (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627761,Kattakampal (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627742,Kiralur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,913642,Kunnamkulam,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627737,Mangad (Part),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627764,Nelluwaya (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627762,Pazhanji (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627714,Perumpilavu,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627775,Porkulam (Ct),true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627741,Thayyur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627735,Vellarakkad,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627740,Vellattanjur,true
+32,Kerala,566,Thrissur,6598,Kunnamkulam,627778,Velur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627921,Amballur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627894,Anandapuram,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627892,Chengallur,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627930,Edathirinji (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627896,Irinjalakuda,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627897,Kaduppassery,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627888,Kallur,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627886,Karalam,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627909,Karumathra,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627924,Kattur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627907,Kottanellur,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627926,Madayikonam (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627929,Manavalassery (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627895,Muriyad,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627893,Nellayi,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627920,Nenmenikkara (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627934,Padiyur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627923,Parappukkara (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627933,Poomangalam (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627925,Porathissery (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627928,Pullur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627910,Puthenchira,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627935,Thekkumkara (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627922,Thoravu,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627887,Thottippal,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627919,Trikkur (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627932,Vadakkumkara (Ct),true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627908,Vallivattom,true
+32,Kerala,566,Thrissur,5656,Mukundapuram,627931,Vellookkara (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627717,Arangottukara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627732,Attoor,true
+32,Kerala,566,Thrissur,5652,Talappilly,627768,Chelakkara (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627728,Chelakode,true
+32,Kerala,566,Thrissur,5652,Talappilly,627757,Cheruthuruthi (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627766,Chittanda (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627759,Desamangalam (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627755,Elanad,true
+32,Kerala,566,Thrissur,5652,Talappilly,627769,Enkakkad (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627756,Kaniyarkode (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627734,Kanjirakode,true
+32,Kerala,566,Thrissur,5652,Talappilly,627746,Karumathara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627730,Killimangalam,true
+32,Kerala,566,Thrissur,5652,Talappilly,627727,Kondazhy,true
+32,Kerala,566,Thrissur,5652,Talappilly,627765,Kottappuram (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627767,Kumaranellur (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627749,Kurumala,true
+32,Kerala,566,Thrissur,5652,Talappilly,627748,Manalithara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627723,Mayannur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627781,Minalur (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627733,Mullurkara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627779,Mundathikode (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627758,Nedumpura (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627722,Painkulam,true
+32,Kerala,566,Thrissur,5652,Talappilly,627718,Pallur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627724,Pampady,true
+32,Kerala,566,Thrissur,5652,Talappilly,627751,Pangarappilly,true
+32,Kerala,566,Thrissur,5652,Talappilly,627731,Panjal,true
+32,Kerala,566,Thrissur,5652,Talappilly,627743,Parlikad,true
+32,Kerala,566,Thrissur,5652,Talappilly,627753,Pazhayannur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627780,Peringandoor (Ct),true
+32,Kerala,566,Thrissur,5652,Talappilly,627720,Pilakkad,true
+32,Kerala,566,Thrissur,5652,Talappilly,627752,Pulakode,true
+32,Kerala,566,Thrissur,5652,Talappilly,627744,Puthuruthy,true
+32,Kerala,566,Thrissur,5652,Talappilly,627719,Thalassery,true
+32,Kerala,566,Thrissur,5652,Talappilly,627745,Thekkumkara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627716,Thichur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627725,Thiruvilwamala,true
+32,Kerala,566,Thrissur,5652,Talappilly,627750,Thonnurkara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627726,Vadakkethara,true
+32,Kerala,566,Thrissur,5652,Talappilly,627721,Varavoor,true
+32,Kerala,566,Thrissur,5652,Talappilly,627729,Venganellur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627754,Vennur,true
+32,Kerala,566,Thrissur,5652,Talappilly,627747,Viruppakka,true
+32,Kerala,566,Thrissur,5652,Talappilly,627770,Wadakkanchery (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627842,Adat (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627821,Alappad,true
+32,Kerala,566,Thrissur,5654,Thrissur,627828,Anjur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627858,Anthicad (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913767,Aranattukara,true
+32,Kerala,566,Thrissur,5654,Thrissur,627824,Arattupuzha,true
+32,Kerala,566,Thrissur,5654,Thrissur,627827,Avanur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627854,Avinissery (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913764,Ayyanthole,true
+32,Kerala,566,Thrissur,5654,Thrissur,627814,Chalakkal,true
+32,Kerala,566,Thrissur,5654,Thrissur,627822,Chazhoor,true
+32,Kerala,566,Thrissur,5654,Thrissur,913770,Chembookkavu,true
+32,Kerala,566,Thrissur,5654,Thrissur,627862,Cherpu (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627864,Chevvoor (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627841,Chittilappilly (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913771,Chiyyaram,true
+32,Kerala,566,Thrissur,5654,Thrissur,627833,Choolissery (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627831,Edakkalathur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913776,Edakkunni,true
+32,Kerala,566,Thrissur,5654,Thrissur,627849,Eravu (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627823,Inchamudi,true
+32,Kerala,566,Thrissur,5654,Thrissur,627844,Kainoor (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627829,Kaiparamba (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913769,Kanimangalam,true
+32,Kerala,566,Thrissur,5654,Thrissur,627847,Karamuck (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627825,Killannur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627861,Kizhakkummuri (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627868,Kizhuppillikkara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627857,Kodannur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627835,Kolazhy (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913775,Koorkkanchery,true
+32,Kerala,566,Thrissur,5654,Thrissur,627843,Kozhukkully (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627836,Kurichikkara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627867,Kurumpilavu (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627838,Kuttoor (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627813,Madakkathara,true
+32,Kerala,566,Thrissur,5654,Thrissur,627851,Manakkody (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627848,Manalur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627817,Mannamangalam,true
+32,Kerala,566,Thrissur,5654,Thrissur,627852,Marathakkara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627818,Mulayam,true
+32,Kerala,566,Thrissur,5654,Thrissur,627845,Nadathara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913763,Nettissery,true
+32,Kerala,566,Thrissur,5654,Thrissur,913762,Ollukkara,true
+32,Kerala,566,Thrissur,5654,Thrissur,913772,Ollur,true
+32,Kerala,566,Thrissur,5654,Thrissur,627866,Oorakam (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627859,Padiyam (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627855,Palissery (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627820,Pallippuram,true
+32,Kerala,566,Thrissur,5654,Thrissur,627815,Pananchery,true
+32,Kerala,566,Thrissur,5654,Thrissur,627846,Parakkad (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627863,Paralam (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627816,Peechi,true
+32,Kerala,566,Thrissur,5654,Thrissur,627832,Peramangalam (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913773,Peringavu,true
+32,Kerala,566,Thrissur,5654,Thrissur,913765,Poonkunnam,true
+32,Kerala,566,Thrissur,5654,Thrissur,627834,Pottore (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913768,Pullazhi,true
+32,Kerala,566,Thrissur,5654,Thrissur,627819,Pullu,true
+32,Kerala,566,Thrissur,5654,Thrissur,627840,Puranattukara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627853,Puthur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627839,Puzhakkal (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627826,Thangalur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627869,Thanniyam (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627830,Tholur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913766,Thrissur,true
+32,Kerala,566,Thrissur,5654,Thrissur,627860,Vadakkummuri (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627865,Vallachira (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627812,Velappaya,true
+32,Kerala,566,Thrissur,5654,Thrissur,627837,Vellanikkara (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627850,Veluthur (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,627856,Venginissery (Ct),true
+32,Kerala,566,Thrissur,5654,Thrissur,913774,Vilvattom,true
+32,Kerala,566,Thrissur,5654,Thrissur,913761,Viyyur,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627305,Anchukunnu,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627303,Cherukottur,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627301,Edavaka,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627308,Kanjirangad,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627296,Mananthavady,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627302,Nalloornad,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627304,Panamaram,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627295,Payyampally,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627298,Periya,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627306,Porunnanore,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627297,Thavinhal,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627293,Thirunelly,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627299,Thondernad,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627294,Thrissilery,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627300,Valat,true
+32,Kerala,567,Wayanad,5635,Mananthavady,627307,Vellamunda,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627322,Ambalavayal,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627320,Cheeral,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627314,Irulam,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627313,Kidanganad,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627316,Krishnagiri,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627318,Kuppadi,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627309,Nadavayal,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627321,Nenmeni,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627319,Noolpuzha,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627312,Padichira,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627310,Poothadi,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627311,Pulpalli,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627315,Purakkadi,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627317,Sulthanbathery,true
+32,Kerala,567,Wayanad,5636,Sulthanbathery,627323,Thomattuchal,true
+32,Kerala,567,Wayanad,5637,Vythiri,627333,Achooranam,true
+32,Kerala,567,Wayanad,5637,Vythiri,627336,Chundale,true
+32,Kerala,567,Wayanad,5637,Vythiri,913291,Kalpetta,true
+32,Kerala,567,Wayanad,5637,Vythiri,627327,Kaniambetta,true
+32,Kerala,567,Wayanad,5637,Vythiri,627331,Kavumannam,true
+32,Kerala,567,Wayanad,5637,Vythiri,627337,Kottappadi (Part),true
+32,Kerala,567,Wayanad,5637,Vythiri,627326,Kottathara,true
+32,Kerala,567,Wayanad,5637,Vythiri,627335,Kunnathidavaka,true
+32,Kerala,567,Wayanad,5637,Vythiri,627325,Kuppadithara,true
+32,Kerala,567,Wayanad,5637,Vythiri,627339,Muppainad,true
+32,Kerala,567,Wayanad,5637,Vythiri,627328,Muttil North,true
+32,Kerala,567,Wayanad,5637,Vythiri,627329,Muttil South,true
+32,Kerala,567,Wayanad,5637,Vythiri,627324,Padinharethara,true
+32,Kerala,567,Wayanad,5637,Vythiri,627334,Pozhuthana,true
+32,Kerala,567,Wayanad,5637,Vythiri,627332,Thariyode,true
+32,Kerala,567,Wayanad,5637,Vythiri,627338,Thrikkaipatta (Part),true
+32,Kerala,567,Wayanad,5637,Vythiri,627340,Vellarimala,true
+32,Kerala,567,Wayanad,5637,Vythiri,627330,Vengappally,true
